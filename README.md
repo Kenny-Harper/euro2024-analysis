@@ -2,7 +2,8 @@
 
 An analysis of all 51 matches of UEFA Euro 2024 using StatsBomb open event data. It looks at whether controlling territory, pressing and finishing explain how far each team went.
 
-**Live dashboard:** [Tableau Public link]
+**Live dashboard:** [View the interactive dashboard](https://public.tableau.com/app/profile/kenny.harper/viz/Euro2024-WhatSeparatedtheBestTeams/Dashboard1)
+
 **Tools:** Python (pandas), Tableau Public
 
 ## Key findings
