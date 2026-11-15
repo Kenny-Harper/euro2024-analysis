@@ -1,0 +1,1317 @@
+match_id,stage,team,opponent,player,minute,x,y,xg,outcome,is_goal,shot_type,body_part
+3930158,Group Stage,Germany,Scotland,Florian Wirtz,9,101.1,42.0,0.0642,Goal,1,Open Play,Right Foot
+3930158,Group Stage,Germany,Scotland,Jamal Musiala,18,106.4,35.4,0.0935,Goal,1,Open Play,Right Foot
+3930158,Group Stage,Germany,Scotland,Kai Havertz,27,101.2,41.6,0.0619,Saved,0,Open Play,Left Foot
+3930158,Group Stage,Germany,Scotland,İlkay Gündoğan,41,111.0,43.4,0.0821,Saved,0,Open Play,Head
+3930158,Group Stage,Germany,Scotland,Kai Havertz,45,108.1,40.1,0.7835,Goal,1,Penalty,Left Foot
+3930158,Group Stage,Germany,Scotland,Antonio Rüdiger,50,82.1,44.8,0.0061,Saved,0,Open Play,Right Foot
+3930158,Group Stage,Germany,Scotland,Antonio Rüdiger,51,106.9,43.3,0.0744,Blocked,0,Open Play,Head
+3930158,Group Stage,Germany,Scotland,Pascal Groß,56,98.1,29.4,0.0305,Blocked,0,Open Play,Right Foot
+3930158,Group Stage,Germany,Scotland,Joshua Kimmich,56,95.4,57.2,0.0154,Blocked,0,Open Play,Right Foot
+3930158,Group Stage,Germany,Scotland,Florian Wirtz,57,112.6,50.1,0.1151,Off T,0,Open Play,Right Foot
+3930158,Group Stage,Germany,Scotland,İlkay Gündoğan,58,110.1,37.4,0.1337,Blocked,0,Open Play,Left Foot
+3930158,Group Stage,Germany,Scotland,Maximilian Mittelstädt,59,102.9,28.5,0.0251,Blocked,0,Open Play,Left Foot
+3930158,Group Stage,Germany,Scotland,Florian Wirtz,59,88.9,37.2,0.0204,Off T,0,Open Play,Right Foot
+3930158,Group Stage,Germany,Scotland,Leroy Sané,63,107.5,54.1,0.0733,Saved,0,Open Play,Left Foot
+3930158,Group Stage,Germany,Scotland,Maximilian Mittelstädt,65,99.2,28.8,0.0231,Off T,0,Open Play,Left Foot
+3930158,Group Stage,Germany,Scotland,Niclas Füllkrug,67,104.1,39.3,0.114,Goal,1,Open Play,Right Foot
+3930158,Group Stage,Germany,Scotland,Maximilian Mittelstädt,79,102.8,25.6,0.0213,Off T,0,Open Play,Left Foot
+3930158,Group Stage,Germany,Scotland,Leroy Sané,82,98.9,55.4,0.0264,Saved,0,Open Play,Left Foot
+3930158,Group Stage,Germany,Scotland,Leroy Sané,85,92.6,43.3,0.0308,Off T,0,Open Play,Left Foot
+3930158,Group Stage,Scotland,Germany,Scott McKenna,86,108.8,50.0,0.0605,Wayward,0,Open Play,Head
+3930158,Group Stage,Germany,Scotland,Emre Can,92,98.5,39.4,0.05,Goal,1,Open Play,Right Foot
+3930159,Group Stage,Hungary,Switzerland,Attila Szalai,1,110.6,27.7,0.096,Wayward,0,Open Play,Right Foot
+3930159,Group Stage,Hungary,Switzerland,Roland Sallai,9,98.1,48.0,0.0448,Off T,0,Open Play,Right Foot
+3930159,Group Stage,Switzerland,Hungary,Kwadwo Duah,11,108.4,41.6,0.3886,Goal,1,Open Play,Right Foot
+3930159,Group Stage,Switzerland,Hungary,Ruben Vargas,19,107.1,47.2,0.4467,Saved,0,Open Play,Right Foot
+3930159,Group Stage,Switzerland,Hungary,Fabian Lukas Schär,21,93.4,51.8,0.0172,Blocked,0,Open Play,Right Foot
+3930159,Group Stage,Switzerland,Hungary,Fabian Lukas Schär,28,103.4,50.1,0.0533,Blocked,0,Open Play,Left Foot
+3930159,Group Stage,Hungary,Switzerland,Willi Orban,39,111.3,39.9,0.1436,Saved,0,Open Play,Head
+3930159,Group Stage,Switzerland,Hungary,Michel Aebischer,44,96.0,34.5,0.0356,Goal,1,Open Play,Right Foot
+3930159,Group Stage,Switzerland,Hungary,Kwadwo Duah,46,110.1,51.0,0.0609,Blocked,0,Open Play,Right Foot
+3930159,Group Stage,Switzerland,Hungary,Kwadwo Duah,47,105.0,29.0,0.1089,Saved,0,Open Play,Left Foot
+3930159,Group Stage,Switzerland,Hungary,Ruben Vargas,53,108.6,30.2,0.1247,Saved,0,Open Play,Left Foot
+3930159,Group Stage,Switzerland,Hungary,Dan Ndoye,57,96.4,50.9,0.0316,Off T,0,Open Play,Right Foot
+3930159,Group Stage,Hungary,Switzerland,Barnabás Varga,62,111.8,42.5,0.1546,Off T,0,Open Play,Head
+3930159,Group Stage,Hungary,Switzerland,Barnabás Varga,65,115.5,42.1,0.5797,Goal,1,Open Play,Head
+3930159,Group Stage,Hungary,Switzerland,Roland Sallai,68,104.9,35.6,0.0841,Blocked,0,Open Play,Right Foot
+3930159,Group Stage,Switzerland,Hungary,Dan Ndoye,70,108.7,25.6,0.0527,Blocked,0,Open Play,Right Foot
+3930159,Group Stage,Switzerland,Hungary,Fabian Lukas Schär,71,113.3,42.4,0.1198,Off T,0,Open Play,Head
+3930159,Group Stage,Switzerland,Hungary,Dan Ndoye,82,105.0,49.0,0.1483,Off T,0,Open Play,Right Foot
+3930159,Group Stage,Switzerland,Hungary,Vincent Sierro,88,91.4,28.3,0.0205,Blocked,0,Open Play,Right Foot
+3930159,Group Stage,Switzerland,Hungary,Granit Xhaka,89,116.5,49.9,0.0442,Saved,0,Open Play,Head
+3930159,Group Stage,Switzerland,Hungary,Breel-Donald Embolo,92,104.3,41.5,0.4427,Goal,1,Open Play,Right Foot
+3930161,Group Stage,Albania,Italy,Nedim Bajrami,0,111.8,51.9,0.0862,Goal,1,Open Play,Right Foot
+3930161,Group Stage,Italy,Albania,Lorenzo Pellegrini,1,105.9,42.6,0.2011,Off T,0,Open Play,Right Foot
+3930161,Group Stage,Italy,Albania,Federico Chiesa,5,111.0,57.1,0.0156,Blocked,0,Open Play,Left Foot
+3930161,Group Stage,Albania,Italy,Jasir Asani,7,106.8,57.6,0.0149,Blocked,0,Open Play,Left Foot
+3930161,Group Stage,Albania,Italy,Berat Djimsiti,8,103.5,35.1,0.058,Wayward,0,Open Play,Left Foot
+3930161,Group Stage,Italy,Albania,Federico Dimarco,9,105.2,23.6,0.0158,Blocked,0,Open Play,Left Foot
+3930161,Group Stage,Italy,Albania,Alessandro Bastoni,10,117.6,45.7,0.1378,Goal,1,Open Play,Head
+3930161,Group Stage,Italy,Albania,Gianluca Scamacca,15,104.8,50.9,0.0532,Blocked,0,Open Play,Right Foot
+3930161,Group Stage,Italy,Albania,Nicolò Barella,15,100.8,36.7,0.0846,Goal,1,Open Play,Right Foot
+3930161,Group Stage,Italy,Albania,Riccardo Calafiori,20,115.6,39.0,0.1803,Blocked,0,Open Play,Head
+3930161,Group Stage,Italy,Albania,Federico Chiesa,20,95.4,34.3,0.0271,Blocked,0,Open Play,Right Foot
+3930161,Group Stage,Italy,Albania,Lorenzo Pellegrini,30,112.8,31.8,0.0506,Wayward,0,Open Play,Right Foot
+3930161,Group Stage,Italy,Albania,Davide Frattesi,32,113.1,50.5,0.2195,Saved to Post,0,Open Play,Right Foot
+3930161,Group Stage,Italy,Albania,Gianluca Scamacca,39,114.8,50.6,0.0858,Saved,0,Open Play,Right Foot
+3930161,Group Stage,Italy,Albania,Riccardo Calafiori,40,112.8,39.8,0.1009,Blocked,0,Open Play,Head
+3930161,Group Stage,Albania,Italy,Jasir Asani,43,93.3,50.5,0.0232,Off T,0,Open Play,Left Foot
+3930161,Group Stage,Italy,Albania,Lorenzo Pellegrini,46,109.0,36.9,0.1197,Off T,0,Open Play,Other
+3930161,Group Stage,Italy,Albania,Gianluca Scamacca,47,97.7,44.6,0.0373,Blocked,0,Open Play,Right Foot
+3930161,Group Stage,Albania,Italy,Kristjan Asllani,51,92.6,22.7,0.0086,Blocked,0,Free Kick,Right Foot
+3930161,Group Stage,Italy,Albania,Federico Chiesa,59,101.6,52.7,0.0346,Off T,0,Open Play,Left Foot
+3930161,Group Stage,Italy,Albania,Giovanni Di Lorenzo,66,116.2,31.1,0.0759,Blocked,0,Open Play,Head
+3930161,Group Stage,Albania,Italy,Kristjan Asllani,68,97.3,43.8,0.0289,Off T,0,Open Play,Left Foot
+3930161,Group Stage,Italy,Albania,Federico Dimarco,79,95.3,22.5,0.0098,Saved,0,Open Play,Left Foot
+3930161,Group Stage,Albania,Italy,Rey Manaj,89,114.6,51.8,0.104,Saved,0,Open Play,Right Foot
+3930161,Group Stage,Albania,Italy,Mario Mitaj,94,100.7,25.2,0.0307,Off T,0,Open Play,Left Foot
+3930160,Group Stage,Spain,Croatia,Álvaro Borja Morata Martín,6,98.8,47.5,0.0537,Saved,0,Open Play,Left Foot
+3930160,Group Stage,Spain,Croatia,Lamine Yamal Nasraoui Ebana,14,106.5,49.9,0.0481,Saved Off Target,0,Open Play,Left Foot
+3930160,Group Stage,Croatia,Spain,Ante Budimir,21,107.7,39.3,0.0489,Off T,0,Open Play,Head
+3930160,Group Stage,Spain,Croatia,Álvaro Borja Morata Martín,28,104.1,39.9,0.4253,Goal,1,Open Play,Left Foot
+3930160,Group Stage,Croatia,Spain,Mateo Kovačić,29,102.8,38.7,0.0638,Saved,0,Open Play,Left Foot
+3930160,Group Stage,Spain,Croatia,Fabián Ruiz Peña,31,103.9,38.7,0.0561,Goal,1,Open Play,Left Foot
+3930160,Group Stage,Croatia,Spain,Marcelo Brozović,32,101.8,40.2,0.0778,Saved,0,Open Play,Right Foot
+3930160,Group Stage,Croatia,Spain,Lovro Majer,32,116.5,50.1,0.1065,Off T,0,Open Play,Right Foot
+3930160,Group Stage,Spain,Croatia,Robin Aime Robert Le Normand,35,114.2,35.6,0.1084,Blocked,0,Open Play,Head
+3930160,Group Stage,Croatia,Spain,Joško Gvardiol,40,114.0,27.5,0.0504,Off T,0,Open Play,Left Foot
+3930160,Group Stage,Croatia,Spain,Andrej Kramarić,44,86.3,47.4,0.0132,Off T,0,Open Play,Right Foot
+3930160,Group Stage,Croatia,Spain,Mateo Kovačić,45,91.0,30.4,0.0191,Off T,0,Open Play,Right Foot
+3930160,Group Stage,Spain,Croatia,Daniel Carvajal Ramos,46,112.7,42.4,0.301,Goal,1,Open Play,Right Foot
+3930160,Group Stage,Croatia,Spain,Joško Gvardiol,50,101.2,24.0,0.0184,Blocked,0,Open Play,Left Foot
+3930160,Group Stage,Spain,Croatia,Lamine Yamal Nasraoui Ebana,51,108.6,48.3,0.2817,Saved,0,Open Play,Left Foot
+3930160,Group Stage,Spain,Croatia,Álvaro Borja Morata Martín,53,117.4,34.5,0.2104,Wayward,0,Open Play,Other
+3930160,Group Stage,Croatia,Spain,Josip Stanišić,54,111.9,47.8,0.2229,Blocked,0,Open Play,Right Foot
+3930160,Group Stage,Croatia,Spain,Ante Budimir,54,117.0,37.0,0.206,Blocked,0,Open Play,Head
+3930160,Group Stage,Croatia,Spain,Andrej Kramarić,54,118.4,40.0,0.7104,Saved,0,Open Play,Head
+3930160,Group Stage,Croatia,Spain,Mateo Kovačić,54,115.1,34.4,0.0999,Wayward,0,Open Play,Head
+3930160,Group Stage,Spain,Croatia,Lamine Yamal Nasraoui Ebana,57,91.3,45.4,0.0423,Blocked,0,Free Kick,Left Foot
+3930160,Group Stage,Spain,Croatia,Daniel Olmo Carvajal,73,93.9,39.0,0.0274,Blocked,0,Open Play,Right Foot
+3930160,Group Stage,Croatia,Spain,Bruno Petković,79,108.0,40.0,0.7835,Saved,0,Penalty,Right Foot
+3930160,Group Stage,Croatia,Spain,Ivan Perišić,83,101.4,28.7,0.0353,Blocked,0,Open Play,Right Foot
+3930160,Group Stage,Croatia,Spain,Ivan Perišić,83,87.3,24.7,0.0069,Saved,0,Open Play,Left Foot
+3930160,Group Stage,Spain,Croatia,Ferrán Torres García,87,109.6,57.8,0.0127,Blocked,0,Open Play,Right Foot
+3930160,Group Stage,Croatia,Spain,Ivan Perišić,91,107.8,27.5,0.0191,Off T,0,Open Play,Head
+3930163,Group Stage,England,Serbia,Jude Bellingham,12,113.4,39.5,0.2891,Goal,1,Open Play,Head
+3930163,Group Stage,England,Serbia,Trent Alexander-Arnold,18,95.8,51.0,0.0258,Off T,0,Open Play,Right Foot
+3930163,Group Stage,Serbia,England,Aleksandar Mitrović,19,103.0,47.3,0.0955,Off T,0,Open Play,Right Foot
+3930163,Group Stage,Serbia,England,Dušan Vlahović,22,98.9,46.6,0.0372,Blocked,0,Open Play,Left Foot
+3930163,Group Stage,England,Serbia,Trent Alexander-Arnold,29,92.2,46.3,0.0535,Blocked,0,Free Kick,Right Foot
+3930163,Group Stage,England,Serbia,Trent Alexander-Arnold,55,90.8,50.6,0.023,Saved,0,Open Play,Right Foot
+3930163,Group Stage,England,Serbia,Harry Kane,76,114.8,36.2,0.1673,Saved to Post,0,Open Play,Head
+3930163,Group Stage,Serbia,England,Dušan Vlahović,81,96.9,32.1,0.0452,Saved,0,Open Play,Left Foot
+3930163,Group Stage,Serbia,England,Veljko Birmančević,82,98.1,35.4,0.0332,Blocked,0,Open Play,Right Foot
+3930163,Group Stage,Serbia,England,Sergej Milinković-Savić,88,89.8,27.7,0.0154,Off T,0,Open Play,Right Foot
+3930163,Group Stage,Serbia,England,Ivan Ilić,92,90.5,30.5,0.0229,Blocked,0,Open Play,Left Foot
+3930162,Group Stage,Denmark,Slovenia,Andreas Christensen,10,105.6,39.0,0.0237,Off T,0,Open Play,Head
+3930162,Group Stage,Denmark,Slovenia,Victor Bernth Kristansen,14,101.6,37.8,0.0502,Blocked,0,Open Play,Right Foot
+3930162,Group Stage,Slovenia,Denmark,Benjamin Šeško,15,89.6,43.4,0.023,Off T,0,Open Play,Right Foot
+3930162,Group Stage,Denmark,Slovenia,Christian Dannemann Eriksen,16,109.7,46.4,0.2767,Goal,1,Open Play,Right Foot
+3930162,Group Stage,Slovenia,Denmark,Erik Janža,20,94.8,34.0,0.0228,Blocked,0,Open Play,Left Foot
+3930162,Group Stage,Slovenia,Denmark,Erik Janža,20,92.1,32.2,0.02,Wayward,0,Open Play,Left Foot
+3930162,Group Stage,Denmark,Slovenia,Jannik Vestergaard,28,113.5,42.3,0.1021,Off T,0,Open Play,Head
+3930162,Group Stage,Denmark,Slovenia,Joachim Andersen,34,111.2,42.9,0.0721,Wayward,0,Open Play,Head
+3930162,Group Stage,Denmark,Slovenia,Christian Dannemann Eriksen,39,110.8,54.5,0.0332,Blocked,0,Open Play,Left Foot
+3930162,Group Stage,Denmark,Slovenia,Christian Dannemann Eriksen,41,89.0,35.6,0.0301,Blocked,0,Open Play,Right Foot
+3930162,Group Stage,Denmark,Slovenia,Christian Dannemann Eriksen,42,105.1,30.6,0.1002,Off T,0,Open Play,Left Foot
+3930162,Group Stage,Denmark,Slovenia,Andreas Christensen,54,106.4,37.5,0.0289,Blocked,0,Open Play,Head
+3930162,Group Stage,Denmark,Slovenia,Pierre-Emile Højbjerg,55,111.1,43.8,0.0681,Blocked,0,Open Play,Right Foot
+3930162,Group Stage,Denmark,Slovenia,Rasmus Winther Højlund,64,116.7,41.6,0.4475,Saved,0,Open Play,Right Foot
+3930162,Group Stage,Denmark,Slovenia,Alexander Hartmann Bah,64,100.7,49.3,0.0569,Blocked,0,Open Play,Right Foot
+3930162,Group Stage,Slovenia,Denmark,Adam Gnezda Čerin,65,113.1,39.6,0.1957,Off T,0,Open Play,Head
+3930162,Group Stage,Denmark,Slovenia,Christian Dannemann Eriksen,67,114.6,27.9,0.0304,Off T,0,Open Play,Left Foot
+3930162,Group Stage,Denmark,Slovenia,Jonas Older Wind,70,114.5,43.6,0.1302,Off T,0,Open Play,Head
+3930162,Group Stage,Slovenia,Denmark,Andraž Šporar,73,114.0,39.1,0.3346,Off T,0,Open Play,Right Foot
+3930162,Group Stage,Slovenia,Denmark,Benjamin Šeško,75,94.7,44.0,0.0327,Post,0,Open Play,Right Foot
+3930162,Group Stage,Slovenia,Denmark,Erik Janža,76,98.1,22.6,0.0128,Goal,1,Open Play,Left Foot
+3930162,Group Stage,Slovenia,Denmark,Andraž Šporar,78,112.5,40.9,0.1818,Blocked,0,Open Play,Left Foot
+3930162,Group Stage,Slovenia,Denmark,Andraž Šporar,78,111.1,39.6,0.1089,Off T,0,Open Play,Left Foot
+3930162,Group Stage,Denmark,Slovenia,Jannik Vestergaard,80,112.1,27.8,0.0149,Saved,0,Open Play,Head
+3930162,Group Stage,Slovenia,Denmark,Andraž Šporar,80,114.6,54.5,0.0262,Saved,0,Open Play,Right Foot
+3930162,Group Stage,Denmark,Slovenia,Morten Hjulmand,85,95.3,39.1,0.0461,Saved,0,Open Play,Left Foot
+3930162,Group Stage,Slovenia,Denmark,Žan Karničnik,90,90.2,57.0,0.0078,Off T,0,Open Play,Right Foot
+3938637,Group Stage,Netherlands,Poland,Cody Mathès Gakpo,1,110.1,23.0,0.0102,Saved,0,Open Play,Right Foot
+3938637,Group Stage,Netherlands,Poland,Cody Mathès Gakpo,5,112.3,34.1,0.1139,Wayward,0,Open Play,Head
+3938637,Group Stage,Poland,Netherlands,Bartosz Salamon,7,54.2,44.2,0.0034,Wayward,0,Open Play,Right Foot
+3938637,Group Stage,Netherlands,Poland,Tijjani Reijnders,8,106.1,42.8,0.1143,Off T,0,Open Play,Right Foot
+3938637,Group Stage,Poland,Netherlands,Adam Buksa,9,107.9,55.5,0.0437,Blocked,0,Open Play,Right Foot
+3938637,Group Stage,Netherlands,Poland,Xavi Simons,13,98.4,58.0,0.0154,Off T,0,Open Play,Right Foot
+3938637,Group Stage,Poland,Netherlands,Adam Buksa,15,114.6,33.6,0.0872,Goal,1,Open Play,Head
+3938637,Group Stage,Netherlands,Poland,Virgil van Dijk,19,107.0,38.9,0.0335,Saved,0,Open Play,Right Foot
+3938637,Group Stage,Netherlands,Poland,Memphis Depay,21,104.8,40.8,0.112,Off T,0,Open Play,Right Foot
+3938637,Group Stage,Netherlands,Poland,Memphis Depay,22,112.1,53.4,0.0816,Wayward,0,Open Play,Right Foot
+3938637,Group Stage,Netherlands,Poland,Denzel Dumfries,26,110.1,43.1,0.11,Wayward,0,Open Play,Head
+3938637,Group Stage,Netherlands,Poland,Tijjani Reijnders,26,118.5,33.7,0.075,Blocked,0,Open Play,Head
+3938637,Group Stage,Netherlands,Poland,Cody Mathès Gakpo,27,101.1,19.6,0.01,Off T,0,Open Play,Right Foot
+3938637,Group Stage,Netherlands,Poland,Cody Mathès Gakpo,28,97.7,34.5,0.0483,Goal,1,Open Play,Right Foot
+3938637,Group Stage,Poland,Netherlands,Jakub Piotr Kiwior,31,109.5,23.2,0.0186,Saved,0,Open Play,Left Foot
+3938637,Group Stage,Netherlands,Poland,Cody Mathès Gakpo,41,112.6,34.0,0.1078,Off T,0,Open Play,Right Foot
+3938637,Group Stage,Netherlands,Poland,Tijjani Reijnders,44,92.3,29.7,0.0155,Off T,0,Open Play,Right Foot
+3938637,Group Stage,Netherlands,Poland,Memphis Depay,45,108.0,50.5,0.1542,Off T,0,Open Play,Right Foot
+3938637,Group Stage,Netherlands,Poland,Xavi Simons,47,95.3,49.4,0.0218,Blocked,0,Open Play,Right Foot
+3938637,Group Stage,Netherlands,Poland,Tijjani Reijnders,47,98.4,53.0,0.0315,Blocked,0,Open Play,Right Foot
+3938637,Group Stage,Netherlands,Poland,Memphis Depay,48,83.3,34.1,0.0107,Off T,0,Open Play,Right Foot
+3938637,Group Stage,Netherlands,Poland,Xavi Simons,53,106.5,50.7,0.0467,Off T,0,Open Play,Right Foot
+3938637,Group Stage,Poland,Netherlands,Jakub Piotr Kiwior,57,108.2,51.3,0.0605,Saved,0,Open Play,Left Foot
+3938637,Group Stage,Poland,Netherlands,Piotr Zieliński,58,95.9,46.5,0.0362,Saved,0,Open Play,Left Foot
+3938637,Group Stage,Poland,Netherlands,Jakub Moder,62,108.9,32.4,0.1731,Wayward,0,Open Play,Right Foot
+3938637,Group Stage,Netherlands,Poland,Denzel Dumfries,64,110.0,56.3,0.0368,Off T,0,Open Play,Right Foot
+3938637,Group Stage,Netherlands,Poland,Stefan de Vrij,72,110.9,41.9,0.0688,Off T,0,Open Play,Head
+3938637,Group Stage,Poland,Netherlands,Jakub Moder,79,115.5,39.4,0.2949,Wayward,0,Open Play,Head
+3938637,Group Stage,Netherlands,Poland,Wout Weghorst,82,110.6,36.7,0.0946,Goal,1,Open Play,Left Foot
+3938637,Group Stage,Poland,Netherlands,Karol Świderski,88,112.0,36.4,0.1314,Saved,0,Open Play,Left Foot
+3938637,Group Stage,Poland,Netherlands,Jakub Piotrowski,88,119.0,32.0,0.0213,Off T,0,Open Play,Left Foot
+3938637,Group Stage,Poland,Netherlands,Jakub Moder,91,88.9,45.8,0.0202,Saved,0,Open Play,Left Foot
+3938637,Group Stage,Poland,Netherlands,Nicola Zalewski,94,90.3,29.2,0.0187,Saved,0,Open Play,Right Foot
+3930164,Group Stage,Belgium,Slovakia,Kevin De Bruyne,2,107.4,41.5,0.1498,Wayward,0,Open Play,Left Foot
+3930164,Group Stage,Belgium,Slovakia,Romelu Lukaku Menama,2,114.4,38.1,0.5474,Saved,0,Open Play,Right Foot
+3930164,Group Stage,Slovakia,Belgium,Juraj Kucka,6,105.4,32.4,0.1626,Saved,0,Open Play,Right Foot
+3930164,Group Stage,Slovakia,Belgium,Ivan Schranz,6,116.3,28.9,0.0667,Goal,1,Open Play,Right Foot
+3930164,Group Stage,Belgium,Slovakia,Jeremy Doku,15,106.4,57.6,0.0278,Blocked,0,Open Play,Left Foot
+3930164,Group Stage,Belgium,Slovakia,Leandro Trossard,20,91.7,24.9,0.0287,Off T,0,Open Play,Right Foot
+3930164,Group Stage,Slovakia,Belgium,Róbert Boženík,22,102.7,49.3,0.0469,Blocked,0,Open Play,Right Foot
+3930164,Group Stage,Slovakia,Belgium,Róbert Boženík,30,99.8,38.5,0.0646,Saved,0,Open Play,Right Foot
+3930164,Group Stage,Belgium,Slovakia,Leandro Trossard,31,99.4,31.0,0.0397,Blocked,0,Open Play,Right Foot
+3930164,Group Stage,Belgium,Slovakia,Amadou Onana,35,112.7,41.8,0.1109,Saved,0,Open Play,Head
+3930164,Group Stage,Slovakia,Belgium,Lukáš Haraslín,39,103.8,38.0,0.1009,Saved,0,Open Play,Right Foot
+3930164,Group Stage,Slovakia,Belgium,Juraj Kucka,47,115.7,49.2,0.0643,Off T,0,Open Play,Head
+3930164,Group Stage,Slovakia,Belgium,Lukáš Haraslín,46,100.0,24.7,0.0282,Off T,0,Open Play,Right Foot
+3930164,Group Stage,Slovakia,Belgium,Denis Vavro,51,79.8,40.3,0.0062,Off T,0,Open Play,Right Foot
+3930164,Group Stage,Belgium,Slovakia,Romelu Lukaku Menama,54,110.7,53.2,0.0923,Saved,0,Open Play,Right Foot
+3930164,Group Stage,Belgium,Slovakia,Leandro Trossard,58,99.9,47.5,0.0991,Saved,0,Open Play,Right Foot
+3930164,Group Stage,Belgium,Slovakia,Yannick Ferreira Carrasco,60,109.8,39.3,0.1005,Blocked,0,Open Play,Left Foot
+3930164,Group Stage,Belgium,Slovakia,Romelu Lukaku Menama,60,114.8,49.2,0.0894,Off T,0,Open Play,Right Foot
+3930164,Group Stage,Belgium,Slovakia,Johan Bakayoko,61,110.9,40.0,0.1953,Blocked,0,Open Play,Left Foot
+3930164,Group Stage,Belgium,Slovakia,Kevin De Bruyne,66,99.7,51.7,0.034,Blocked,0,Open Play,Right Foot
+3930164,Group Stage,Slovakia,Belgium,David Strelec,75,111.6,44.8,0.1231,Blocked,0,Open Play,Right Foot
+3930164,Group Stage,Slovakia,Belgium,Juraj Kucka,77,97.5,49.6,0.0476,Off T,0,Open Play,Left Foot
+3930164,Group Stage,Belgium,Slovakia,Yannick Ferreira Carrasco,79,98.6,35.1,0.0466,Blocked,0,Open Play,Right Foot
+3930164,Group Stage,Belgium,Slovakia,Amadou Onana,79,108.7,35.8,0.0348,Off T,0,Open Play,Head
+3930164,Group Stage,Belgium,Slovakia,Johan Bakayoko,90,100.3,47.6,0.0307,Off T,0,Open Play,Left Foot
+3930164,Group Stage,Belgium,Slovakia,Kevin De Bruyne,92,109.4,52.0,0.1234,Saved,0,Open Play,Right Foot
+3930165,Group Stage,France,Austria,Kylian Mbappé Lottin,7,109.4,25.8,0.0804,Saved,0,Open Play,Right Foot
+3930165,Group Stage,France,Austria,Theo Bernard François Hernández,12,115.5,26.8,0.0209,Wayward,0,Open Play,Left Foot
+3930165,Group Stage,France,Austria,Antoine Griezmann,18,103.8,52.8,0.0546,Blocked,0,Open Play,Left Foot
+3930165,Group Stage,France,Austria,Marcus Thuram,18,115.3,47.9,0.069,Wayward,0,Open Play,Head
+3930165,Group Stage,France,Austria,Kylian Mbappé Lottin,32,103.5,28.8,0.0488,Blocked,0,Open Play,Right Foot
+3930165,Group Stage,Austria,France,Christoph Baumgartner,35,111.3,38.4,0.4713,Saved,0,Open Play,Right Foot
+3930165,Group Stage,Austria,France,Kevin Danso,41,108.8,36.7,0.0374,Wayward,0,Open Play,Head
+3930165,Group Stage,Austria,France,Stefan Posch,47,95.2,54.1,0.0217,Off T,0,Open Play,Right Foot
+3930165,Group Stage,France,Austria,Kylian Mbappé Lottin,54,103.9,37.9,0.4043,Off T,0,Open Play,Right Foot
+3930165,Group Stage,France,Austria,Ousmane Dembélé,63,101.6,58.4,0.016,Off T,0,Open Play,Left Foot
+3930165,Group Stage,France,Austria,Antoine Griezmann,65,114.1,41.1,0.6972,Wayward,0,Open Play,Right Foot
+3930165,Group Stage,France,Austria,Jules Koundé,65,106.4,48.3,0.0708,Blocked,0,Open Play,Right Foot
+3930165,Group Stage,France,Austria,Marcus Thuram,66,111.7,52.9,0.0789,Saved,0,Open Play,Right Foot
+3930165,Group Stage,France,Austria,Marcus Thuram,72,103.4,28.8,0.0484,Off T,0,Open Play,Right Foot
+3930165,Group Stage,Austria,France,Christoph Baumgartner,77,113.9,50.8,0.1977,Saved,0,Open Play,Right Foot
+3930165,Group Stage,France,Austria,Marcus Thuram,82,108.1,33.2,0.1999,Saved,0,Open Play,Left Foot
+3930165,Group Stage,France,Austria,Kylian Mbappé Lottin,84,111.9,40.2,0.0807,Blocked,0,Open Play,Head
+3930165,Group Stage,Austria,France,Patrick Wimmer,91,111.8,53.1,0.0203,Saved,0,Open Play,Head
+3930165,Group Stage,France,Austria,Marcus Thuram,94,101.2,26.4,0.0346,Blocked,0,Open Play,Right Foot
+3938638,Group Stage,Ukraine,Romania,Viktor Tsygankov,6,97.1,35.4,0.0464,Blocked,0,Open Play,Left Foot
+3938638,Group Stage,Romania,Ukraine,Florinel Teodor Coman,7,89.9,33.0,0.025,Saved,0,Open Play,Right Foot
+3938638,Group Stage,Ukraine,Romania,Georgiy Sudakov,11,99.8,30.0,0.0281,Blocked,0,Open Play,Right Foot
+3938638,Group Stage,Ukraine,Romania,Artem Dovbyk,21,93.3,39.3,0.0411,Off T,0,Open Play,Left Foot
+3938638,Group Stage,Romania,Ukraine,Nicolae Claudiu Stanciu,28,96.6,45.0,0.0463,Goal,1,Open Play,Right Foot
+3938638,Group Stage,Ukraine,Romania,Viktor Tsygankov,37,102.6,42.1,0.0638,Blocked,0,Open Play,Left Foot
+3938638,Group Stage,Romania,Ukraine,Dennis Man,37,101.2,58.1,0.0218,Blocked,0,Open Play,Left Foot
+3938638,Group Stage,Romania,Ukraine,Nicolae Claudiu Stanciu,38,120.1,0.8,0.0002,Post,0,Corner,Right Foot
+3938638,Group Stage,Romania,Ukraine,Florinel Teodor Coman,45,104.0,26.5,0.0331,Off T,0,Open Play,Right Foot
+3938638,Group Stage,Ukraine,Romania,Georgiy Sudakov,49,93.6,22.0,0.008,Off T,0,Open Play,Right Foot
+3938638,Group Stage,Ukraine,Romania,Mykhailo Mudryk,51,108.4,27.6,0.0311,Blocked,0,Open Play,Right Foot
+3938638,Group Stage,Romania,Ukraine,Răzvan Gabriel Marin,52,93.2,49.7,0.02,Goal,1,Open Play,Right Foot
+3938638,Group Stage,Romania,Ukraine,Nicolae Claudiu Stanciu,55,98.3,43.3,0.0711,Blocked,0,Open Play,Right Foot
+3938638,Group Stage,Romania,Ukraine,Andrei Florin Ratiu,56,110.4,56.7,0.0134,Saved,0,Open Play,Right Foot
+3938638,Group Stage,Romania,Ukraine,Denis Mihai Drăguş,56,116.3,41.2,0.883,Goal,1,Open Play,Left Foot
+3938638,Group Stage,Ukraine,Romania,Andriy Yarmolenko,64,103.5,46.3,0.0529,Off T,0,Open Play,Left Foot
+3938638,Group Stage,Romania,Ukraine,Nicolae Claudiu Stanciu,67,111.2,5.6,0.0072,Off T,0,Free Kick,Right Foot
+3938638,Group Stage,Ukraine,Romania,Georgiy Sudakov,70,94.8,24.9,0.0388,Blocked,0,Free Kick,Right Foot
+3938638,Group Stage,Ukraine,Romania,Georgiy Sudakov,76,93.3,40.3,0.0319,Saved,0,Open Play,Right Foot
+3938638,Group Stage,Ukraine,Romania,Roman Yaremchuk,77,98.6,43.1,0.0504,Blocked,0,Open Play,Right Foot
+3938638,Group Stage,Ukraine,Romania,Mykhailo Mudryk,83,110.4,27.6,0.1152,Off T,0,Open Play,Left Foot
+3938638,Group Stage,Ukraine,Romania,Roman Yaremchuk,91,112.4,55.2,0.0277,Post,0,Open Play,Right Foot
+3938638,Group Stage,Ukraine,Romania,Mykhailo Mudryk,93,82.6,30.8,0.0079,Saved,0,Open Play,Right Foot
+3930166,Group Stage,Czech Republic,Portugal,Pavel Šulc,3,103.0,33.9,0.0605,Blocked,0,Open Play,Right Foot
+3930166,Group Stage,Portugal,Czech Republic,Cristiano Ronaldo dos Santos Aveiro,7,108.6,40.1,0.0544,Off T,0,Open Play,Head
+3930166,Group Stage,Portugal,Czech Republic,Nuno Mendes,16,89.6,25.3,0.0072,Off T,0,Open Play,Left Foot
+3930166,Group Stage,Portugal,Czech Republic,Rúben Santos Gato Alves Dias,21,99.7,52.2,0.0317,Blocked,0,Open Play,Right Foot
+3930166,Group Stage,Portugal,Czech Republic,João Pedro Cavaco Cancelo,22,104.7,25.1,0.0283,Blocked,0,Open Play,Right Foot
+3930166,Group Stage,Portugal,Czech Republic,Bruno Miguel Borges Fernandes,23,92.6,20.6,0.0056,Blocked,0,Open Play,Right Foot
+3930166,Group Stage,Portugal,Czech Republic,Cristiano Ronaldo dos Santos Aveiro,31,109.8,36.7,0.4917,Saved,0,Open Play,Left Foot
+3930166,Group Stage,Portugal,Czech Republic,Vitor Machado Ferreira,31,96.7,32.6,0.0372,Saved,0,Open Play,Right Foot
+3930166,Group Stage,Portugal,Czech Republic,Vitor Machado Ferreira,32,106.6,35.4,0.1527,Blocked,0,Open Play,Right Foot
+3930166,Group Stage,Portugal,Czech Republic,Cristiano Ronaldo dos Santos Aveiro,45,107.9,51.7,0.0786,Saved,0,Open Play,Left Foot
+3930166,Group Stage,Portugal,Czech Republic,José Diogo Dalot Teixeira,45,99.2,55.7,0.0229,Off T,0,Open Play,Left Foot
+3930166,Group Stage,Portugal,Czech Republic,Bernardo Mota Veiga de Carvalho e Silva,51,101.9,56.1,0.0326,Off T,0,Open Play,Left Foot
+3930166,Group Stage,Portugal,Czech Republic,Cristiano Ronaldo dos Santos Aveiro,54,111.8,40.5,0.0914,Blocked,0,Open Play,Head
+3930166,Group Stage,Portugal,Czech Republic,Cristiano Ronaldo dos Santos Aveiro,57,92.3,38.0,0.0524,Saved,0,Free Kick,Right Foot
+3930166,Group Stage,Portugal,Czech Republic,Rafael Alexandre Conceição Leão,59,107.9,20.4,0.0086,Blocked,0,Open Play,Right Foot
+3930166,Group Stage,Czech Republic,Portugal,Mojmír Chytil,61,107.6,41.8,0.0403,Wayward,0,Open Play,Head
+3930166,Group Stage,Czech Republic,Portugal,Lukáš Provod,61,98.3,48.1,0.0359,Goal,1,Open Play,Right Foot
+3930166,Group Stage,Portugal,Czech Republic,Nuno Mendes,68,115.0,30.7,0.0452,Saved,0,Open Play,Head
+3930166,Group Stage,Portugal,Czech Republic,Bernardo Mota Veiga de Carvalho e Silva,71,108.9,25.4,0.0675,Saved,0,Open Play,Left Foot
+3930166,Group Stage,Portugal,Czech Republic,Vitor Machado Ferreira,77,91.3,35.1,0.032,Saved,0,Open Play,Right Foot
+3930166,Group Stage,Portugal,Czech Republic,Bruno Miguel Borges Fernandes,80,107.1,16.8,0.0077,Blocked,0,Open Play,Right Foot
+3930166,Group Stage,Czech Republic,Portugal,Petr Ševčík,80,106.1,44.5,0.1126,Blocked,0,Open Play,Left Foot
+3930166,Group Stage,Czech Republic,Portugal,Tomáš Souček,80,100.6,44.7,0.0655,Off T,0,Open Play,Left Foot
+3930166,Group Stage,Portugal,Czech Republic,Francisco Fernandes Conceição,91,115.7,36.1,0.59,Goal,1,Open Play,Left Foot
+3938639,Group Stage,Turkey,Georgia,Kaan Ayhan,5,113.7,37.4,0.1093,Off T,0,Open Play,Head
+3938639,Group Stage,Turkey,Georgia,Hakan Çalhanoğlu,6,99.0,59.3,0.0105,Blocked,0,Open Play,Right Foot
+3938639,Group Stage,Turkey,Georgia,Abdülkerim Bardakcı,9,113.4,36.5,0.1177,Off T,0,Open Play,Head
+3938639,Group Stage,Turkey,Georgia,Kaan Ayhan,9,98.2,32.6,0.0473,Post,0,Open Play,Right Foot
+3938639,Group Stage,Georgia,Turkey,Anzor Mekvabishvili,10,92.7,40.9,0.0275,Saved,0,Open Play,Right Foot
+3938639,Group Stage,Georgia,Turkey,Georges Mikautadze,11,101.3,25.7,0.0309,Off T,0,Open Play,Right Foot
+3938639,Group Stage,Turkey,Georgia,Kenan Yildiz,13,111.6,20.7,0.0101,Saved,0,Open Play,Left Foot
+3938639,Group Stage,Turkey,Georgia,Hakan Çalhanoğlu,20,103.3,31.0,0.0404,Off T,0,Open Play,Right Foot
+3938639,Group Stage,Turkey,Georgia,Orkun Kökçü,22,92.6,29.1,0.0214,Blocked,0,Open Play,Right Foot
+3938639,Group Stage,Turkey,Georgia,Mert Müldür,24,102.6,48.7,0.0487,Goal,1,Open Play,Right Foot
+3938639,Group Stage,Turkey,Georgia,Orkun Kökçü,26,111.6,45.6,0.3229,Wayward,0,Open Play,Right Foot
+3938639,Group Stage,Georgia,Turkey,Heorhii Tsitaishvili,29,110.0,20.4,0.0088,Saved,0,Open Play,Left Foot
+3938639,Group Stage,Georgia,Turkey,Georges Mikautadze,31,111.2,49.7,0.199,Goal,1,Open Play,Right Foot
+3938639,Group Stage,Georgia,Turkey,Georges Mikautadze,34,107.1,41.9,0.1569,Off T,0,Open Play,Right Foot
+3938639,Group Stage,Georgia,Turkey,Giorgi Kochorashvili,36,98.4,37.4,0.0446,Blocked,0,Open Play,Right Foot
+3938639,Group Stage,Turkey,Georgia,Kaan Ayhan,39,107.1,34.6,0.0766,Blocked,0,Open Play,Left Foot
+3938639,Group Stage,Turkey,Georgia,Ferdi Erenay Kadıoğlu,40,73.2,39.2,0.0045,Off T,0,Open Play,Right Foot
+3938639,Group Stage,Turkey,Georgia,Mert Müldür,45,111.7,46.2,0.3919,Saved,0,Open Play,Left Foot
+3938639,Group Stage,Turkey,Georgia,Barış Alper Yılmaz,47,107.9,49.7,0.0891,Blocked,0,Open Play,Left Foot
+3938639,Group Stage,Georgia,Turkey,Heorhii Tsitaishvili,48,112.5,22.7,0.0106,Saved,0,Open Play,Left Foot
+3938639,Group Stage,Georgia,Turkey,Georges Mikautadze,51,111.1,36.6,0.0712,Blocked,0,Open Play,Right Foot
+3938639,Group Stage,Turkey,Georgia,Hakan Çalhanoğlu,56,93.2,31.5,0.0484,Saved,0,Free Kick,Right Foot
+3938639,Group Stage,Turkey,Georgia,Kenan Yildiz,59,101.2,24.7,0.0128,Blocked,0,Open Play,Right Foot
+3938639,Group Stage,Turkey,Georgia,Mert Müldür,59,96.6,51.5,0.0269,Blocked,0,Open Play,Right Foot
+3938639,Group Stage,Turkey,Georgia,Hakan Çalhanoğlu,60,95.8,46.1,0.0208,Off T,0,Open Play,Right Foot
+3938639,Group Stage,Georgia,Turkey,Khvicha Kvaratskhelia,61,109.4,30.4,0.1281,Off T,0,Open Play,Right Foot
+3938639,Group Stage,Turkey,Georgia,Arda Güler,64,95.5,53.4,0.0187,Goal,1,Open Play,Left Foot
+3938639,Group Stage,Turkey,Georgia,Orkun Kökçü,68,108.9,36.5,0.351,Wayward,0,Open Play,Left Foot
+3938639,Group Stage,Georgia,Turkey,Giorgi Kochorashvili,69,107.6,41.5,0.3774,Post,0,Open Play,Right Foot
+3938639,Group Stage,Turkey,Georgia,Orkun Kökçü,71,52.0,38.1,0.003,Wayward,0,Open Play,Right Foot
+3938639,Group Stage,Georgia,Turkey,Luka Lochoshvili,74,111.2,32.3,0.051,Wayward,0,Open Play,Head
+3938639,Group Stage,Turkey,Georgia,Yusuf Yazıcı,86,111.8,37.6,0.1589,Saved,0,Open Play,Head
+3938639,Group Stage,Georgia,Turkey,Budu Zivzivadze,92,114.8,32.5,0.0572,Blocked,0,Open Play,Left Foot
+3938639,Group Stage,Georgia,Turkey,Giorgi Kochorashvili,92,111.4,37.4,0.339,Off T,0,Open Play,Left Foot
+3938639,Group Stage,Georgia,Turkey,Zuriko Davitashvili,95,108.9,45.6,0.0764,Blocked,0,Open Play,Right Foot
+3938639,Group Stage,Turkey,Georgia,Muhammed Kerem Aktürkoğlu,96,96.1,52.9,0.4724,Goal,1,Open Play,Right Foot
+3930167,Group Stage,Albania,Croatia,Qazim Laçi,10,111.4,42.7,0.1527,Goal,1,Open Play,Head
+3930167,Group Stage,Albania,Croatia,Nedim Bajrami,14,106.7,25.1,0.043,Blocked,0,Open Play,Right Foot
+3930167,Group Stage,Albania,Croatia,Elseid Hysaj,15,97.8,46.2,0.0262,Blocked,0,Open Play,Left Foot
+3930167,Group Stage,Croatia,Albania,Mateo Kovačić,19,94.7,32.2,0.0237,Blocked,0,Open Play,Right Foot
+3930167,Group Stage,Croatia,Albania,Marcelo Brozović,19,101.7,54.2,0.037,Off T,0,Open Play,Right Foot
+3930167,Group Stage,Croatia,Albania,Bruno Petković,25,111.9,40.4,0.1519,Off T,0,Open Play,Head
+3930167,Group Stage,Albania,Croatia,Elseid Hysaj,28,102.8,44.5,0.0716,Off T,0,Open Play,Left Foot
+3930167,Group Stage,Albania,Croatia,Kristjan Asllani,30,106.4,34.7,0.4144,Saved,0,Open Play,Right Foot
+3930167,Group Stage,Croatia,Albania,Marcelo Brozović,37,87.8,29.0,0.0124,Saved,0,Open Play,Right Foot
+3930167,Group Stage,Croatia,Albania,Lovro Majer,42,109.1,43.0,0.0534,Blocked,0,Open Play,Head
+3930167,Group Stage,Albania,Croatia,Jasir Asani,45,92.7,55.5,0.0133,Blocked,0,Open Play,Left Foot
+3930167,Group Stage,Albania,Croatia,Rey Manaj,45,109.1,39.2,0.1117,Saved,0,Open Play,Head
+3930167,Group Stage,Croatia,Albania,Bruno Petković,46,111.9,35.4,0.0537,Blocked,0,Open Play,Head
+3930167,Group Stage,Croatia,Albania,Luka Sučić,49,106.9,52.1,0.0583,Saved,0,Open Play,Left Foot
+3930167,Group Stage,Croatia,Albania,Mario Pašalić,50,114.6,45.6,0.0952,Off T,0,Open Play,Head
+3930167,Group Stage,Croatia,Albania,Mateo Kovačić,52,96.8,31.1,0.0346,Saved,0,Open Play,Right Foot
+3930167,Group Stage,Croatia,Albania,Mario Pašalić,53,111.2,47.0,0.0806,Off T,0,Open Play,Head
+3930167,Group Stage,Croatia,Albania,Bruno Petković,56,112.5,39.2,0.1485,Blocked,0,Open Play,Head
+3930167,Group Stage,Croatia,Albania,Josip Šutalo,57,117.2,36.5,0.2778,Off T,0,Open Play,Head
+3930167,Group Stage,Croatia,Albania,Luka Modrić,58,95.5,50.4,0.0273,Blocked,0,Open Play,Right Foot
+3930167,Group Stage,Croatia,Albania,Ivan Perišić,60,93.8,28.3,0.0191,Saved,0,Open Play,Left Foot
+3930167,Group Stage,Albania,Croatia,Kristjan Asllani,62,97.9,33.3,0.0471,Saved,0,Open Play,Right Foot
+3930167,Group Stage,Albania,Croatia,Nedim Bajrami,66,102.5,50.5,0.0672,Off T,0,Open Play,Right Foot
+3930167,Group Stage,Croatia,Albania,Mario Pašalić,68,113.6,43.1,0.1031,Off T,0,Open Play,Head
+3930167,Group Stage,Albania,Croatia,Taulant Sulejmanov,72,92.4,34.4,0.0342,Saved,0,Open Play,Right Foot
+3930167,Group Stage,Croatia,Albania,Andrej Kramarić,73,107.3,33.5,0.1796,Goal,1,Open Play,Right Foot
+3930167,Group Stage,Croatia,Albania,Luka Sučić,75,111.7,38.8,0.2386,Blocked,0,Open Play,Left Foot
+3930167,Group Stage,Croatia,Albania,Ante Budimir,79,105.9,35.7,0.1142,Saved,0,Open Play,Left Foot
+3930167,Group Stage,Croatia,Albania,Luka Modrić,87,95.3,47.0,0.0474,Off T,0,Open Play,Right Foot
+3930167,Group Stage,Croatia,Albania,Martin Baturina,88,112.1,23.1,0.0182,Saved,0,Open Play,Right Foot
+3930167,Group Stage,Albania,Croatia,Arbër Hoxha,89,96.3,46.2,0.0347,Saved,0,Open Play,Right Foot
+3930167,Group Stage,Albania,Croatia,Mirlind Daku,92,110.2,36.4,0.1327,Blocked,0,Open Play,Right Foot
+3930167,Group Stage,Albania,Croatia,Klaus Gjasula,94,108.0,40.2,0.1145,Goal,1,Open Play,Left Foot
+3930167,Group Stage,Albania,Croatia,Klaus Gjasula,96,99.3,39.6,0.0626,Blocked,0,Open Play,Right Foot
+3930167,Group Stage,Croatia,Albania,Mateo Kovačić,98,103.2,30.4,0.084,Saved,0,Open Play,Left Foot
+3930169,Group Stage,Scotland,Switzerland,Scott McTominay,12,103.8,32.8,0.0625,Goal,1,Open Play,Left Foot
+3930169,Group Stage,Switzerland,Scotland,Ricardo Iván Rodríguez Araya,15,100.6,38.0,0.0357,Off T,0,Open Play,Left Foot
+3930169,Group Stage,Switzerland,Scotland,Xherdan Shaqiri,25,98.1,32.5,0.0858,Goal,1,Open Play,Left Foot
+3930169,Group Stage,Switzerland,Scotland,Silvan Widmer,27,104.0,52.2,0.0422,Off T,0,Open Play,Right Foot
+3930169,Group Stage,Switzerland,Scotland,Dan Ndoye,29,110.8,33.1,0.0518,Blocked,0,Open Play,Right Foot
+3930169,Group Stage,Switzerland,Scotland,Dan Ndoye,31,111.7,31.1,0.2223,Saved,0,Open Play,Right Foot
+3930169,Group Stage,Scotland,Switzerland,Jack Hendry,37,107.7,38.9,0.0662,Wayward,0,Open Play,Head
+3930169,Group Stage,Scotland,Switzerland,Che Adams,40,116.8,47.4,0.1038,Saved,0,Open Play,Right Foot
+3930169,Group Stage,Switzerland,Scotland,Granit Xhaka,41,103.8,25.1,0.039,Saved,0,Open Play,Left Foot
+3930169,Group Stage,Switzerland,Scotland,Ruben Vargas,55,104.0,23.4,0.0269,Saved,0,Open Play,Right Foot
+3930169,Group Stage,Switzerland,Scotland,Dan Ndoye,57,102.8,37.7,0.2939,Saved,0,Open Play,Right Foot
+3930169,Group Stage,Switzerland,Scotland,Ruben Vargas,63,107.2,25.6,0.0481,Off T,0,Open Play,Right Foot
+3930169,Group Stage,Scotland,Switzerland,Billy Gilmour,64,89.4,44.5,0.0255,Blocked,0,Open Play,Right Foot
+3930169,Group Stage,Scotland,Switzerland,Grant Campbell Hanley,66,114.8,36.6,0.1987,Post,0,Open Play,Head
+3930169,Group Stage,Scotland,Switzerland,Scott McKenna,73,106.4,38.2,0.0259,Off T,0,Open Play,Head
+3930169,Group Stage,Scotland,Switzerland,Billy Gilmour,75,112.3,34.2,0.0622,Blocked,0,Open Play,Head
+3930169,Group Stage,Switzerland,Scotland,Dan Ndoye,77,108.3,23.4,0.0346,Off T,0,Open Play,Right Foot
+3930169,Group Stage,Scotland,Switzerland,Scott McTominay,80,109.4,43.5,0.0498,Wayward,0,Open Play,Head
+3930169,Group Stage,Scotland,Switzerland,Scott McTominay,80,107.3,44.8,0.0675,Blocked,0,Open Play,Right Foot
+3930169,Group Stage,Scotland,Switzerland,Scott McTominay,80,107.7,42.7,0.0658,Blocked,0,Open Play,Right Foot
+3930169,Group Stage,Scotland,Switzerland,Kenneth McLean,86,98.5,60.6,0.0114,Saved,0,Open Play,Left Foot
+3930169,Group Stage,Switzerland,Scotland,Mohamed Zeki Amdouni,89,112.3,34.8,0.1097,Off T,0,Open Play,Head
+3930169,Group Stage,Scotland,Switzerland,Callum McGregor,90,100.0,32.0,0.0326,Off T,0,Open Play,Left Foot
+3930168,Group Stage,Hungary,Germany,Roland Sallai,0,113.3,35.8,0.4343,Saved,0,Open Play,Right Foot
+3930168,Group Stage,Germany,Hungary,Kai Havertz,4,101.1,50.7,0.0723,Saved,0,Open Play,Left Foot
+3930168,Group Stage,Hungary,Germany,Bendegúz Bolla,5,109.3,54.7,0.042,Blocked,0,Open Play,Right Foot
+3930168,Group Stage,Germany,Hungary,Kai Havertz,10,114.9,48.7,0.1763,Saved,0,Open Play,Left Foot
+3930168,Group Stage,Germany,Hungary,Robert Andrich,11,109.2,48.8,0.0587,Blocked,0,Open Play,Right Foot
+3930168,Group Stage,Hungary,Germany,Roland Sallai,14,101.3,38.3,0.06,Blocked,0,Open Play,Right Foot
+3930168,Group Stage,Germany,Hungary,Jamal Musiala,21,111.1,36.9,0.1768,Goal,1,Open Play,Right Foot
+3930168,Group Stage,Hungary,Germany,Dominik Szoboszlai,25,95.7,21.5,0.0111,Saved,0,Free Kick,Right Foot
+3930168,Group Stage,Hungary,Germany,Barnabás Varga,25,120.0,34.2,0.0166,Wayward,0,Open Play,Left Foot
+3930168,Group Stage,Germany,Hungary,İlkay Gündoğan,26,103.4,42.8,0.0766,Blocked,0,Open Play,Left Foot
+3930168,Group Stage,Hungary,Germany,Dominik Szoboszlai,28,107.1,32.0,0.0622,Blocked,0,Open Play,Left Foot
+3930168,Group Stage,Hungary,Germany,Bendegúz Bolla,29,99.3,51.3,0.0269,Blocked,0,Open Play,Right Foot
+3930168,Group Stage,Germany,Hungary,Maximilian Mittelstädt,36,98.4,43.3,0.0357,Blocked,0,Open Play,Right Foot
+3930168,Group Stage,Germany,Hungary,Florian Wirtz,41,97.9,58.4,0.0091,Off T,0,Open Play,Right Foot
+3930168,Group Stage,Germany,Hungary,Jamal Musiala,43,102.8,49.0,0.0574,Off T,0,Open Play,Right Foot
+3930168,Group Stage,Germany,Hungary,Antonio Rüdiger,45,90.2,56.9,0.007,Blocked,0,Open Play,Right Foot
+3930168,Group Stage,Germany,Hungary,Toni Kroos,54,99.5,44.2,0.0567,Saved,0,Open Play,Right Foot
+3930168,Group Stage,Hungary,Germany,Dominik Szoboszlai,57,100.1,56.9,0.0165,Wayward,0,Open Play,Right Foot
+3930168,Group Stage,Hungary,Germany,Roland Sallai,57,107.7,39.4,0.0864,Off T,0,Open Play,Right Foot
+3930168,Group Stage,Hungary,Germany,Barnabás Varga,59,113.5,42.2,0.188,Off T,0,Open Play,Head
+3930168,Group Stage,Germany,Hungary,Jamal Musiala,61,96.7,35.8,0.0371,Off T,0,Open Play,Right Foot
+3930168,Group Stage,Germany,Hungary,İlkay Gündoğan,66,107.9,35.3,0.2239,Goal,1,Open Play,Left Foot
+3930168,Group Stage,Germany,Hungary,Joshua Kimmich,68,112.0,56.5,0.0152,Off T,0,Open Play,Right Foot
+3930168,Group Stage,Germany,Hungary,Joshua Kimmich,73,107.3,48.4,0.1117,Saved,0,Open Play,Left Foot
+3930168,Group Stage,Germany,Hungary,Leroy Sané,74,98.8,47.3,0.0314,Saved,0,Open Play,Right Foot
+3930168,Group Stage,Germany,Hungary,Leroy Sané,76,88.7,42.1,0.0287,Off T,0,Free Kick,Left Foot
+3930168,Group Stage,Germany,Hungary,Chris Führich,80,111.4,24.3,0.027,Off T,0,Open Play,Right Foot
+3930168,Group Stage,Germany,Hungary,Niclas Füllkrug,86,113.5,40.6,0.2279,Off T,0,Open Play,Head
+3930168,Group Stage,Germany,Hungary,Leroy Sané,87,106.4,51.1,0.0541,Blocked,0,Open Play,Left Foot
+3930168,Group Stage,Hungary,Germany,Willi Orban,89,112.1,38.3,0.2841,Blocked,0,Open Play,Right Foot
+3930170,Group Stage,Slovenia,Serbia,Adam Gnezda Čerin,3,95.6,49.4,0.0414,Saved,0,Open Play,Right Foot
+3930170,Group Stage,Slovenia,Serbia,Jan Mlakar,7,109.1,51.7,0.1448,Saved,0,Open Play,Right Foot
+3930170,Group Stage,Slovenia,Serbia,Andraž Šporar,19,108.8,42.9,0.0704,Blocked,0,Open Play,Right Foot
+3930170,Group Stage,Slovenia,Serbia,Timi Elšnik,20,90.1,41.2,0.023,Blocked,0,Open Play,Left Foot
+3930170,Group Stage,Serbia,Slovenia,Dušan Vlahović,26,111.0,34.9,0.0683,Saved,0,Open Play,Head
+3930170,Group Stage,Slovenia,Serbia,Jan Mlakar,36,102.6,25.2,0.02,Wayward,0,Open Play,Left Foot
+3930170,Group Stage,Slovenia,Serbia,Timi Elšnik,37,105.7,50.3,0.1616,Post,0,Open Play,Right Foot
+3930170,Group Stage,Slovenia,Serbia,Andraž Šporar,37,110.6,38.9,0.4592,Wayward,0,Open Play,Left Foot
+3930170,Group Stage,Slovenia,Serbia,Benjamin Šeško,37,109.6,35.3,0.2385,Off T,0,Open Play,Right Foot
+3930170,Group Stage,Serbia,Slovenia,Dušan Vlahović,38,92.3,31.2,0.0424,Blocked,0,Free Kick,Left Foot
+3930170,Group Stage,Serbia,Slovenia,Dušan Vlahović,38,95.6,30.9,0.0166,Blocked,0,Open Play,Left Foot
+3930170,Group Stage,Serbia,Slovenia,Aleksandar Mitrović,41,116.5,33.3,0.2972,Saved,0,Open Play,Right Foot
+3930170,Group Stage,Serbia,Slovenia,Saša Lukić,42,103.2,33.6,0.0881,Blocked,0,Open Play,Right Foot
+3930170,Group Stage,Slovenia,Serbia,Petar Stojanović,43,94.5,52.5,0.0232,Blocked,0,Open Play,Right Foot
+3930170,Group Stage,Serbia,Slovenia,Aleksandar Mitrović,45,113.6,32.8,0.0519,Off T,0,Open Play,Head
+3930170,Group Stage,Serbia,Slovenia,Aleksandar Mitrović,46,112.9,50.7,0.2402,Saved,0,Open Play,Right Foot
+3930170,Group Stage,Serbia,Slovenia,Aleksandar Mitrović,49,110.2,38.0,0.068,Blocked,0,Open Play,Head
+3930170,Group Stage,Slovenia,Serbia,Benjamin Šeško,57,96.0,23.6,0.0218,Saved,0,Open Play,Right Foot
+3930170,Group Stage,Serbia,Slovenia,Aleksandar Mitrović,64,102.7,50.4,0.0585,Off T,0,Open Play,Right Foot
+3930170,Group Stage,Slovenia,Serbia,Žan Karničnik,68,114.1,44.7,0.3383,Goal,1,Open Play,Right Foot
+3930170,Group Stage,Serbia,Slovenia,Aleksandar Mitrović,71,113.4,38.4,0.1834,Post,0,Open Play,Right Foot
+3930170,Group Stage,Serbia,Slovenia,Sergej Milinković-Savić,74,112.9,36.9,0.095,Blocked,0,Open Play,Head
+3930170,Group Stage,Slovenia,Serbia,Žan Karničnik,78,96.9,58.1,0.01,Off T,0,Open Play,Right Foot
+3930170,Group Stage,Serbia,Slovenia,Lazar Samardžić,82,101.2,28.3,0.0492,Off T,0,Open Play,Left Foot
+3930170,Group Stage,Serbia,Slovenia,Ivan Ilić,85,99.1,30.7,0.0279,Blocked,0,Open Play,Left Foot
+3930170,Group Stage,Serbia,Slovenia,Mijat Gaćinović,94,104.4,43.9,0.0329,Blocked,0,Open Play,Right Foot
+3930170,Group Stage,Serbia,Slovenia,Luka Jović,94,114.6,40.3,0.1417,Goal,1,Open Play,Head
+3930171,Group Stage,Denmark,England,Pierre-Emile Højbjerg,0,97.1,27.4,0.0258,Saved,0,Open Play,Right Foot
+3930171,Group Stage,England,Denmark,Phil Foden,12,104.5,51.4,0.1015,Off T,0,Open Play,Left Foot
+3930171,Group Stage,England,Denmark,Harry Kane,16,97.3,38.5,0.0527,Blocked,0,Open Play,Left Foot
+3930171,Group Stage,England,Denmark,Harry Kane,17,112.9,40.4,0.4549,Goal,1,Open Play,Left Foot
+3930171,Group Stage,Denmark,England,Christian Dannemann Eriksen,22,108.4,56.6,0.0189,Blocked,0,Open Play,Right Foot
+3930171,Group Stage,Denmark,England,Jonas Older Wind,24,112.3,34.5,0.061,Saved,0,Open Play,Head
+3930171,Group Stage,Denmark,England,Christian Dannemann Eriksen,25,102.6,49.8,0.0397,Blocked,0,Open Play,Right Foot
+3930171,Group Stage,England,Denmark,Marc Guehi,27,115.3,53.4,0.0217,Off T,0,Open Play,Right Foot
+3930171,Group Stage,Denmark,England,Jonas Older Wind,31,108.2,50.4,0.038,Blocked,0,Open Play,Right Foot
+3930171,Group Stage,Denmark,England,Morten Hjulmand,33,88.6,40.7,0.0194,Goal,1,Open Play,Right Foot
+3930171,Group Stage,Denmark,England,Morten Hjulmand,37,97.2,49.3,0.0377,Blocked,0,Open Play,Right Foot
+3930171,Group Stage,Denmark,England,Joachim Andersen,38,117.7,28.2,0.0115,Off T,0,Open Play,Head
+3930171,Group Stage,England,Denmark,Phil Foden,40,94.2,31.4,0.0252,Saved,0,Open Play,Left Foot
+3930171,Group Stage,Denmark,England,Pierre-Emile Højbjerg,43,93.1,54.1,0.0211,Saved,0,Open Play,Right Foot
+3930171,Group Stage,England,Denmark,Phil Foden,46,95.5,54.6,0.0199,Off T,0,Open Play,Left Foot
+3930171,Group Stage,Denmark,England,Jonas Older Wind,46,101.3,49.5,0.0451,Blocked,0,Open Play,Left Foot
+3930171,Group Stage,England,Denmark,Declan Rice,50,93.7,26.4,0.0213,Saved,0,Open Play,Right Foot
+3930171,Group Stage,England,Denmark,Bukayo Saka,52,115.1,49.3,0.0616,Off T,0,Open Play,Head
+3930171,Group Stage,England,Denmark,Phil Foden,55,96.8,51.3,0.0354,Post,0,Open Play,Left Foot
+3930171,Group Stage,England,Denmark,Bukayo Saka,55,110.1,50.4,0.2237,Off T,0,Open Play,Right Foot
+3930171,Group Stage,England,Denmark,Bukayo Saka,58,103.9,55.8,0.0404,Off T,0,Open Play,Left Foot
+3930171,Group Stage,Denmark,England,Christian Dannemann Eriksen,63,93.3,45.6,0.0269,Off T,0,Open Play,Left Foot
+3930171,Group Stage,Denmark,England,Mikkel Damsgaard,66,96.1,28.0,0.0175,Saved,0,Open Play,Right Foot
+3930171,Group Stage,England,Denmark,Ollie Watkins,70,115.0,51.1,0.1143,Saved,0,Open Play,Right Foot
+3930171,Group Stage,Denmark,England,Pierre-Emile Højbjerg,72,89.7,32.2,0.0226,Saved,0,Open Play,Right Foot
+3930171,Group Stage,Denmark,England,Pierre-Emile Højbjerg,76,85.4,47.2,0.0109,Saved,0,Open Play,Right Foot
+3930171,Group Stage,Denmark,England,Andreas Christensen,83,113.5,39.7,0.2926,Off T,0,Open Play,Right Foot
+3930171,Group Stage,Denmark,England,Pierre-Emile Højbjerg,84,100.5,30.8,0.0447,Off T,0,Open Play,Right Foot
+3930172,Group Stage,Spain,Italy,Pedro González López,1,113.1,39.3,0.2087,Saved,0,Open Play,Head
+3930172,Group Stage,Spain,Italy,Nicholas Williams Arthuer,9,112.6,43.2,0.1658,Off T,0,Open Play,Head
+3930172,Group Stage,Spain,Italy,Álvaro Borja Morata Martín,14,101.1,29.8,0.0459,Blocked,0,Open Play,Right Foot
+3930172,Group Stage,Spain,Italy,Álvaro Borja Morata Martín,23,115.3,49.5,0.0889,Saved,0,Open Play,Right Foot
+3930172,Group Stage,Spain,Italy,Fabián Ruiz Peña,24,88.6,42.3,0.021,Saved,0,Open Play,Left Foot
+3930172,Group Stage,Spain,Italy,Rodrigo Hernández Cascante,26,83.3,37.9,0.0063,Off T,0,Open Play,Right Foot
+3930172,Group Stage,Spain,Italy,Rodrigo Hernández Cascante,27,99.7,38.8,0.068,Blocked,0,Open Play,Right Foot
+3930172,Group Stage,Spain,Italy,Fabián Ruiz Peña,36,93.4,47.8,0.0188,Off T,0,Open Play,Left Foot
+3930172,Group Stage,Spain,Italy,Fabián Ruiz Peña,40,94.8,46.2,0.0561,Saved,0,Open Play,Left Foot
+3930172,Group Stage,Italy,Spain,Federico Chiesa,45,103.2,57.2,0.0287,Off T,0,Open Play,Right Foot
+3930172,Group Stage,Spain,Italy,Pedro González López,51,110.9,35.1,0.2228,Off T,0,Open Play,Right Foot
+3930172,Group Stage,Spain,Italy,Pedro González López,52,92.3,35.6,0.0312,Saved,0,Open Play,Right Foot
+3930172,Group Stage,Spain,Italy,Álvaro Borja Morata Martín,54,113.8,27.3,0.0433,Saved Off Target,0,Open Play,Head
+3930172,Group Stage,Spain,Italy,Álvaro Borja Morata Martín,57,93.0,33.9,0.0395,Saved,0,Open Play,Right Foot
+3930172,Group Stage,Spain,Italy,Robin Aime Robert Le Normand,57,113.0,44.1,0.0701,Blocked,0,Open Play,Head
+3930172,Group Stage,Spain,Italy,Lamine Yamal Nasraoui Ebana,59,97.3,55.7,0.0222,Off T,0,Open Play,Left Foot
+3930172,Group Stage,Spain,Italy,Nicholas Williams Arthuer,69,103.5,21.2,0.0101,Post,0,Open Play,Right Foot
+3930172,Group Stage,Italy,Spain,Lorenzo Pellegrini,73,94.5,25.7,0.0413,Off T,0,Free Kick,Right Foot
+3930172,Group Stage,Spain,Italy,Ayoze Pérez Gutiérrez,80,109.9,29.1,0.081,Blocked,0,Open Play,Left Foot
+3930172,Group Stage,Spain,Italy,Aymeric Laporte,80,113.5,46.0,0.0913,Off T,0,Open Play,Head
+3930172,Group Stage,Italy,Spain,Bryan Cristante,85,115.1,31.7,0.0452,Saved,0,Open Play,Right Foot
+3930172,Group Stage,Spain,Italy,Ayoze Pérez Gutiérrez,90,112.0,24.5,0.0301,Saved,0,Open Play,Right Foot
+3930172,Group Stage,Spain,Italy,Ayoze Pérez Gutiérrez,91,106.6,29.2,0.2128,Saved,0,Open Play,Right Foot
+3930172,Group Stage,Italy,Spain,Riccardo Calafiori,96,102.5,30.0,0.0281,Off T,0,Open Play,Left Foot
+3938640,Group Stage,Slovakia,Ukraine,Lukáš Haraslín,9,108.9,26.0,0.0546,Saved,0,Open Play,Left Foot
+3938640,Group Stage,Slovakia,Ukraine,Ivan Schranz,10,116.4,47.1,0.1295,Saved,0,Open Play,Right Foot
+3938640,Group Stage,Slovakia,Ukraine,Ondrej Duda,11,99.9,24.0,0.0253,Off T,0,Open Play,Right Foot
+3938640,Group Stage,Ukraine,Slovakia,Volodymyr Brazhko,12,92.5,36.0,0.0258,Saved,0,Open Play,Right Foot
+3938640,Group Stage,Slovakia,Ukraine,Dávid Hancko,16,99.7,50.8,0.0783,Saved,0,Free Kick,Left Foot
+3938640,Group Stage,Slovakia,Ukraine,Ivan Schranz,16,114.4,45.7,0.144,Goal,1,Open Play,Head
+3938640,Group Stage,Ukraine,Slovakia,Mykhailo Mudryk,22,93.2,41.7,0.0322,Off T,0,Open Play,Right Foot
+3938640,Group Stage,Ukraine,Slovakia,Artem Dovbyk,27,112.5,29.1,0.056,Blocked,0,Open Play,Left Foot
+3938640,Group Stage,Ukraine,Slovakia,Mykhailo Mudryk,28,104.4,24.3,0.0285,Blocked,0,Open Play,Right Foot
+3938640,Group Stage,Ukraine,Slovakia,Andriy Yarmolenko,28,111.9,45.2,0.3173,Off T,0,Open Play,Left Foot
+3938640,Group Stage,Ukraine,Slovakia,Andriy Yarmolenko,33,109.1,45.7,0.1338,Blocked,0,Open Play,Left Foot
+3938640,Group Stage,Ukraine,Slovakia,Oleksandr Zinchenko,42,106.5,65.2,0.0077,Saved,0,Free Kick,Left Foot
+3938640,Group Stage,Slovakia,Ukraine,Lukáš Haraslín,43,100.3,31.4,0.0618,Saved,0,Open Play,Right Foot
+3938640,Group Stage,Slovakia,Ukraine,Juraj Kucka,43,102.8,39.2,0.032,Wayward,0,Open Play,Right Foot
+3938640,Group Stage,Ukraine,Slovakia,Artem Dovbyk,50,115.1,43.7,0.3195,Wayward,0,Open Play,Head
+3938640,Group Stage,Ukraine,Slovakia,Mykola Shaparenko,53,108.8,37.3,0.2398,Goal,1,Open Play,Left Foot
+3938640,Group Stage,Slovakia,Ukraine,Ivan Schranz,57,97.3,59.2,0.0087,Blocked,0,Open Play,Left Foot
+3938640,Group Stage,Ukraine,Slovakia,Roman Yaremchuk,68,113.6,32.9,0.0639,Blocked,0,Open Play,Head
+3938640,Group Stage,Slovakia,Ukraine,Peter Pekarík,73,97.8,55.1,0.025,Blocked,0,Open Play,Left Foot
+3938640,Group Stage,Ukraine,Slovakia,Mykhailo Mudryk,73,113.7,27.7,0.0828,Saved,0,Open Play,Left Foot
+3938640,Group Stage,Ukraine,Slovakia,Georgiy Sudakov,76,97.8,28.6,0.0382,Blocked,0,Open Play,Left Foot
+3938640,Group Stage,Ukraine,Slovakia,Roman Yaremchuk,79,114.8,49.2,0.3864,Goal,1,Open Play,Right Foot
+3938640,Group Stage,Slovakia,Ukraine,László Bénes,80,104.1,45.7,0.0805,Blocked,0,Open Play,Right Foot
+3938640,Group Stage,Slovakia,Ukraine,Juraj Kucka,81,107.8,43.4,0.0377,Off T,0,Open Play,Head
+3938640,Group Stage,Slovakia,Ukraine,Juraj Kucka,84,92.1,21.7,0.0088,Off T,0,Free Kick,Right Foot
+3938640,Group Stage,Slovakia,Ukraine,Denis Vavro,89,115.2,29.9,0.0419,Off T,0,Open Play,Head
+3938640,Group Stage,Slovakia,Ukraine,Milan Škriniar,94,85.8,38.5,0.018,Blocked,0,Open Play,Right Foot
+3938641,Group Stage,Austria,Poland,Stefan Posch,1,81.5,42.0,0.0058,Saved,0,Open Play,Right Foot
+3938641,Group Stage,Austria,Poland,Gernot Trauner,8,115.0,33.0,0.1261,Goal,1,Open Play,Head
+3938641,Group Stage,Austria,Poland,Marcel Sabitzer,9,107.5,45.2,0.113,Blocked,0,Open Play,Right Foot
+3938641,Group Stage,Austria,Poland,Marcel Sabitzer,16,105.5,38.4,0.0666,Saved,0,Open Play,Right Foot
+3938641,Group Stage,Poland,Austria,Piotr Zieliński,16,104.5,43.5,0.113,Blocked,0,Open Play,Right Foot
+3938641,Group Stage,Poland,Austria,Nicola Zalewski,17,106.7,29.1,0.0991,Off T,0,Open Play,Right Foot
+3938641,Group Stage,Poland,Austria,Piotr Zieliński,23,97.3,46.3,0.0345,Blocked,0,Open Play,Left Foot
+3938641,Group Stage,Poland,Austria,Piotr Zieliński,26,99.4,38.0,0.074,Blocked,0,Open Play,Right Foot
+3938641,Group Stage,Poland,Austria,Jan Bednarek,29,108.9,40.0,0.2037,Blocked,0,Open Play,Right Foot
+3938641,Group Stage,Poland,Austria,Krzysztof Piątek,29,113.8,41.6,0.4451,Goal,1,Open Play,Right Foot
+3938641,Group Stage,Austria,Poland,Marcel Sabitzer,38,106.9,32.0,0.1358,Blocked,0,Open Play,Right Foot
+3938641,Group Stage,Austria,Poland,Marcel Sabitzer,41,90.9,36.1,0.0205,Off T,0,Open Play,Right Foot
+3938641,Group Stage,Poland,Austria,Piotr Zieliński,45,91.6,47.5,0.0425,Saved,0,Free Kick,Right Foot
+3938641,Group Stage,Poland,Austria,Jakub Piotrowski,46,110.1,38.8,0.0478,Blocked,0,Open Play,Head
+3938641,Group Stage,Austria,Poland,Stefan Posch,48,94.0,47.8,0.0273,Blocked,0,Open Play,Right Foot
+3938641,Group Stage,Austria,Poland,Stefan Posch,50,111.5,37.6,0.0622,Saved,0,Open Play,Head
+3938641,Group Stage,Poland,Austria,Krzysztof Piątek,51,95.3,42.6,0.0448,Off T,0,Open Play,Right Foot
+3938641,Group Stage,Austria,Poland,Marcel Sabitzer,54,103.6,26.7,0.038,Blocked,0,Open Play,Left Foot
+3938641,Group Stage,Poland,Austria,Adam Buksa,56,103.9,42.4,0.0174,Blocked,0,Open Play,Head
+3938641,Group Stage,Poland,Austria,Piotr Zieliński,59,96.8,24.1,0.0401,Blocked,0,Free Kick,Right Foot
+3938641,Group Stage,Poland,Austria,Paweł Dawidowicz,60,113.0,47.4,0.0684,Off T,0,Open Play,Head
+3938641,Group Stage,Austria,Poland,Christoph Baumgartner,65,102.5,36.3,0.1424,Goal,1,Open Play,Right Foot
+3938641,Group Stage,Poland,Austria,Karol Świderski,68,99.6,33.0,0.0729,Saved,0,Open Play,Left Foot
+3938641,Group Stage,Austria,Poland,Patrick Wimmer,74,103.1,44.4,0.0625,Saved,0,Open Play,Right Foot
+3938641,Group Stage,Austria,Poland,Nicolas Seiwald,75,95.9,35.7,0.0339,Saved,0,Open Play,Right Foot
+3938641,Group Stage,Austria,Poland,Marko Arnautović,77,108.0,40.0,0.7835,Goal,1,Penalty,Right Foot
+3938641,Group Stage,Austria,Poland,Stefan Posch,82,97.6,49.9,0.0405,Saved,0,Open Play,Left Foot
+3938641,Group Stage,Austria,Poland,Konrad Laimer,84,115.2,28.3,0.1634,Off T,0,Open Play,Left Foot
+3938641,Group Stage,Poland,Austria,Piotr Zieliński,86,91.4,48.8,0.0144,Off T,0,Open Play,Left Foot
+3938641,Group Stage,Poland,Austria,Kamil Grosicki,92,112.7,32.9,0.1203,Off T,0,Open Play,Left Foot
+3930173,Group Stage,Netherlands,France,Jeremie Frimpong,0,108.6,53.7,0.0968,Saved,0,Open Play,Right Foot
+3930173,Group Stage,France,Netherlands,Antoine Griezmann,3,95.1,22.1,0.0085,Saved,0,Open Play,Left Foot
+3930173,Group Stage,France,Netherlands,Antoine Griezmann,13,107.7,37.5,0.0959,Off T,0,Open Play,Left Foot
+3930173,Group Stage,Netherlands,France,Cody Mathès Gakpo,15,99.8,29.6,0.0497,Saved,0,Open Play,Right Foot
+3930173,Group Stage,Netherlands,France,Tijjani Reijnders,27,92.8,30.8,0.0246,Blocked,0,Open Play,Right Foot
+3930173,Group Stage,France,Netherlands,Marcus Thuram,27,109.8,55.4,0.0571,Off T,0,Open Play,Right Foot
+3930173,Group Stage,Netherlands,France,Jeremie Frimpong,34,105.9,50.3,0.073,Blocked,0,Open Play,Right Foot
+3930173,Group Stage,Netherlands,France,Xavi Simons,35,94.8,31.5,0.0333,Saved,0,Open Play,Right Foot
+3930173,Group Stage,France,Netherlands,Antoine Griezmann,40,99.3,55.2,0.0439,Blocked,0,Free Kick,Left Foot
+3930173,Group Stage,France,Netherlands,Antoine Griezmann,42,107.6,35.3,0.068,Saved,0,Open Play,Head
+3930173,Group Stage,France,Netherlands,Ousmane Dembélé,50,98.5,45.2,0.0486,Blocked,0,Open Play,Left Foot
+3930173,Group Stage,France,Netherlands,N'Golo Kanté,51,94.8,56.3,0.0203,Off T,0,Open Play,Right Foot
+3930173,Group Stage,Netherlands,France,Memphis Depay,54,92.3,33.5,0.0538,Blocked,0,Free Kick,Right Foot
+3930173,Group Stage,France,Netherlands,Adrien Rabiot,56,110.5,38.1,0.1907,Off T,0,Open Play,Right Foot
+3930173,Group Stage,France,Netherlands,Aurélien Djani Tchouaméni,58,91.3,33.0,0.0202,Blocked,0,Open Play,Right Foot
+3930173,Group Stage,France,Netherlands,Marcus Thuram,59,98.8,41.7,0.0741,Off T,0,Open Play,Right Foot
+3930173,Group Stage,France,Netherlands,Aurélien Djani Tchouaméni,62,109.8,41.1,0.0682,Off T,0,Open Play,Head
+3930173,Group Stage,France,Netherlands,Antoine Griezmann,64,113.8,43.8,0.3836,Saved,0,Open Play,Left Foot
+3930173,Group Stage,France,Netherlands,Aurélien Djani Tchouaméni,65,96.6,20.8,0.0097,Blocked,0,Open Play,Right Foot
+3930173,Group Stage,France,Netherlands,Ousmane Dembélé,67,102.5,50.5,0.0526,Off T,0,Open Play,Left Foot
+3930173,Group Stage,Netherlands,France,Memphis Depay,68,110.3,32.8,0.2755,Saved,0,Open Play,Left Foot
+3930173,Group Stage,Netherlands,France,Xavi Simons,68,103.9,36.2,0.1065,Wayward,0,Open Play,Right Foot
+3930173,Group Stage,Netherlands,France,Virgil van Dijk,78,106.8,38.5,0.0249,Blocked,0,Open Play,Head
+3930173,Group Stage,France,Netherlands,N'Golo Kanté,90,107.0,50.6,0.0771,Blocked,0,Open Play,Right Foot
+3930175,Group Stage,Belgium,Romania,Youri Tielemans,1,100.4,44.1,0.0568,Goal,1,Open Play,Right Foot
+3930175,Group Stage,Romania,Belgium,Răzvan Gabriel Marin,2,93.6,55.2,0.0204,Off T,0,Open Play,Right Foot
+3930175,Group Stage,Romania,Belgium,Radu Drăgușin,4,112.5,41.9,0.1038,Saved,0,Open Play,Head
+3930175,Group Stage,Belgium,Romania,Youri Tielemans,10,97.9,35.9,0.0419,Blocked,0,Open Play,Right Foot
+3930175,Group Stage,Belgium,Romania,Romelu Lukaku Menama,12,109.4,38.9,0.128,Blocked,0,Open Play,Right Foot
+3930175,Group Stage,Belgium,Romania,Amadou Onana,17,95.2,41.2,0.0219,Wayward,0,Open Play,Right Foot
+3930175,Group Stage,Belgium,Romania,Dodi Lukebakio,17,105.6,47.5,0.0785,Saved,0,Open Play,Left Foot
+3930175,Group Stage,Belgium,Romania,Jan Vertonghen,18,109.5,34.6,0.1049,Off T,0,Open Play,Left Foot
+3930175,Group Stage,Romania,Belgium,Valentin Mihai Mihăilă,20,96.8,36.4,0.037,Off T,0,Open Play,Right Foot
+3930175,Group Stage,Romania,Belgium,Valentin Mihai Mihăilă,23,99.7,27.7,0.0309,Blocked,0,Open Play,Right Foot
+3930175,Group Stage,Belgium,Romania,Jeremy Doku,30,116.0,27.9,0.0218,Saved,0,Open Play,Left Foot
+3930175,Group Stage,Belgium,Romania,Dodi Lukebakio,30,114.9,25.6,0.0127,Blocked,0,Open Play,Left Foot
+3930175,Group Stage,Belgium,Romania,Dodi Lukebakio,32,103.5,54.0,0.0316,Blocked,0,Open Play,Left Foot
+3930175,Group Stage,Romania,Belgium,Dennis Man,36,102.7,54.8,0.0335,Saved,0,Open Play,Left Foot
+3930175,Group Stage,Belgium,Romania,Kevin De Bruyne,42,103.1,52.4,0.0974,Saved,0,Open Play,Right Foot
+3930175,Group Stage,Romania,Belgium,Andrei Burcă Andonie,44,112.0,41.3,0.1115,Off T,0,Open Play,Head
+3930175,Group Stage,Romania,Belgium,Dennis Man,45,95.8,55.5,0.0213,Saved,0,Open Play,Left Foot
+3930175,Group Stage,Romania,Belgium,Valentin Mihai Mihăilă,47,106.3,28.4,0.1173,Off T,0,Open Play,Left Foot
+3930175,Group Stage,Belgium,Romania,Kevin De Bruyne,51,100.1,24.4,0.0258,Off T,0,Open Play,Right Foot
+3930175,Group Stage,Belgium,Romania,Kevin De Bruyne,54,101.0,40.8,0.1301,Saved,0,Open Play,Right Foot
+3930175,Group Stage,Romania,Belgium,Valentin Mihai Mihăilă,56,97.2,31.6,0.0392,Off T,0,Open Play,Right Foot
+3930175,Group Stage,Belgium,Romania,Romelu Lukaku Menama,57,105.7,50.3,0.0722,Blocked,0,Open Play,Right Foot
+3930175,Group Stage,Belgium,Romania,Romelu Lukaku Menama,58,111.0,45.3,0.1642,Saved,0,Open Play,Right Foot
+3930175,Group Stage,Belgium,Romania,Jeremy Doku,62,110.6,27.2,0.1102,Off T,0,Open Play,Left Foot
+3930175,Group Stage,Belgium,Romania,Romelu Lukaku Menama,65,109.0,43.5,0.204,Saved,0,Open Play,Right Foot
+3930175,Group Stage,Belgium,Romania,Kevin De Bruyne,66,94.3,30.6,0.0252,Off T,0,Open Play,Right Foot
+3930175,Group Stage,Romania,Belgium,Dennis Man,67,107.2,46.5,0.3222,Saved,0,Open Play,Right Foot
+3930175,Group Stage,Romania,Belgium,Răzvan Gabriel Marin,74,83.8,29.8,0.0058,Off T,0,Open Play,Right Foot
+3930175,Group Stage,Belgium,Romania,Kevin De Bruyne,79,106.4,44.6,0.1767,Goal,1,Open Play,Right Foot
+3930175,Group Stage,Romania,Belgium,Denis Alibec,84,105.8,34.7,0.3628,Blocked,0,Open Play,Left Foot
+3930175,Group Stage,Romania,Belgium,Radu Drăgușin,84,112.9,29.4,0.0245,Wayward,0,Open Play,Head
+3930175,Group Stage,Belgium,Romania,Leandro Trossard,85,109.3,54.4,0.0337,Blocked,0,Open Play,Right Foot
+3930175,Group Stage,Belgium,Romania,Romelu Lukaku Menama,88,114.2,51.8,0.1083,Saved,0,Open Play,Right Foot
+3930175,Group Stage,Romania,Belgium,Radu Drăgușin,91,90.4,46.8,0.0158,Blocked,0,Open Play,Right Foot
+3938642,Group Stage,Czech Republic,Georgia,Adam Hložek,2,110.7,30.3,0.1179,Saved,0,Open Play,Left Foot
+3938642,Group Stage,Czech Republic,Georgia,Ladislav Krejčí,2,108.9,32.4,0.0393,Blocked,0,Open Play,Right Foot
+3938642,Group Stage,Czech Republic,Georgia,Patrik Schick,2,112.8,46.4,0.155,Saved,0,Open Play,Left Foot
+3938642,Group Stage,Czech Republic,Georgia,Patrik Schick,3,105.6,41.2,0.0259,Saved,0,Open Play,Head
+3938642,Group Stage,Czech Republic,Georgia,Václav Černý,7,99.6,52.7,0.0302,Blocked,0,Open Play,Right Foot
+3938642,Group Stage,Czech Republic,Georgia,Patrik Schick,7,102.2,37.3,0.0438,Blocked,0,Open Play,Left Foot
+3938642,Group Stage,Czech Republic,Georgia,Lukáš Provod,12,93.5,44.0,0.0293,Blocked,0,Open Play,Right Foot
+3938642,Group Stage,Czech Republic,Georgia,Patrik Schick,14,112.2,42.3,0.0853,Wayward,0,Open Play,Head
+3938642,Group Stage,Czech Republic,Georgia,Ladislav Krejčí,22,108.5,42.3,0.0419,Wayward,0,Open Play,Head
+3938642,Group Stage,Czech Republic,Georgia,Adam Hložek,22,113.9,35.8,0.2912,Saved,0,Open Play,Right Foot
+3938642,Group Stage,Czech Republic,Georgia,Václav Černý,26,113.6,43.0,0.5315,Saved,0,Open Play,Left Foot
+3938642,Group Stage,Czech Republic,Georgia,Adam Hložek,28,101.1,27.1,0.0479,Saved,0,Open Play,Right Foot
+3938642,Group Stage,Georgia,Czech Republic,Otar Kakabadze,33,101.1,56.3,0.013,Blocked,0,Open Play,Left Foot
+3938642,Group Stage,Georgia,Czech Republic,Georges Mikautadze,48,108.1,40.1,0.7835,Goal,1,Penalty,Right Foot
+3938642,Group Stage,Czech Republic,Georgia,Patrik Schick,49,104.6,39.9,0.117,Saved,0,Open Play,Left Foot
+3938642,Group Stage,Czech Republic,Georgia,Patrik Schick,50,109.3,41.0,0.0473,Wayward,0,Open Play,Head
+3938642,Group Stage,Czech Republic,Georgia,Ondřej Lingr,56,115.5,52.2,0.0223,Blocked,0,Open Play,Right Foot
+3938642,Group Stage,Czech Republic,Georgia,David Jurásek,56,99.7,31.4,0.0385,Wayward,0,Open Play,Left Foot
+3938642,Group Stage,Georgia,Czech Republic,Anzor Mekvabishvili,56,102.9,34.8,0.0535,Off T,0,Open Play,Right Foot
+3938642,Group Stage,Czech Republic,Georgia,Ondřej Lingr,58,115.1,44.1,0.1681,Post,0,Open Play,Head
+3938642,Group Stage,Czech Republic,Georgia,Patrik Schick,58,117.7,36.5,0.719,Goal,1,Open Play,Other
+3938642,Group Stage,Czech Republic,Georgia,Ladislav Krejčí,61,111.4,44.7,0.0597,Off T,0,Open Play,Head
+3938642,Group Stage,Czech Republic,Georgia,Matěj Jurásek,65,95.4,44.6,0.0359,Saved,0,Open Play,Left Foot
+3938642,Group Stage,Georgia,Czech Republic,Khvicha Kvaratskhelia,70,91.7,36.6,0.0235,Off T,0,Open Play,Right Foot
+3938642,Group Stage,Czech Republic,Georgia,Ladislav Krejčí,71,82.5,28.6,0.0057,Blocked,0,Open Play,Left Foot
+3938642,Group Stage,Czech Republic,Georgia,David Jurásek,71,91.8,35.6,0.0239,Off T,0,Open Play,Right Foot
+3938642,Group Stage,Czech Republic,Georgia,Mojmír Chytil,76,112.8,32.5,0.0663,Off T,0,Open Play,Head
+3938642,Group Stage,Czech Republic,Georgia,Ondřej Lingr,77,100.9,45.2,0.0668,Saved,0,Open Play,Right Foot
+3938642,Group Stage,Czech Republic,Georgia,Matěj Jurásek,78,92.7,59.5,0.0066,Off T,0,Open Play,Left Foot
+3938642,Group Stage,Czech Republic,Georgia,Matěj Jurásek,93,101.0,23.0,0.0297,Saved,0,Open Play,Right Foot
+3938642,Group Stage,Czech Republic,Georgia,Tomáš Holeš,94,88.9,41.4,0.0193,Blocked,0,Open Play,Right Foot
+3938642,Group Stage,Georgia,Czech Republic,Saba Lobzhanidze,94,108.1,49.2,0.3065,Off T,0,Open Play,Right Foot
+3930174,Group Stage,Portugal,Turkey,Cristiano Ronaldo dos Santos Aveiro,1,104.7,54.5,0.0308,Saved,0,Open Play,Right Foot
+3930174,Group Stage,Portugal,Turkey,Bruno Miguel Borges Fernandes,3,92.6,41.8,0.0411,Blocked,0,Open Play,Left Foot
+3930174,Group Stage,Turkey,Portugal,Muhammed Kerem Aktürkoğlu,4,107.8,44.4,0.0483,Off T,0,Open Play,Right Foot
+3930174,Group Stage,Turkey,Portugal,Muhammed Kerem Aktürkoğlu,5,116.2,36.6,0.4502,Wayward,0,Open Play,Right Foot
+3930174,Group Stage,Portugal,Turkey,Cristiano Ronaldo dos Santos Aveiro,7,113.1,34.1,0.0634,Off T,0,Open Play,Head
+3930174,Group Stage,Portugal,Turkey,Rafael Alexandre Conceição Leão,14,108.6,34.2,0.0417,Wayward,0,Open Play,Head
+3930174,Group Stage,Portugal,Turkey,Bernardo Mota Veiga de Carvalho e Silva,20,108.8,44.0,0.3171,Goal,1,Open Play,Left Foot
+3930174,Group Stage,Portugal,Turkey,Bruno Miguel Borges Fernandes,23,103.2,29.7,0.037,Off T,0,Open Play,Right Foot
+3930174,Group Stage,Turkey,Portugal,Muhammed Kerem Aktürkoğlu,30,110.9,27.4,0.0997,Saved,0,Open Play,Right Foot
+3930174,Group Stage,Turkey,Portugal,Orkun Kökçü,31,108.6,51.3,0.0621,Blocked,0,Open Play,Right Foot
+3930174,Group Stage,Turkey,Portugal,Hakan Çalhanoğlu,31,99.0,60.0,0.008,Blocked,0,Open Play,Right Foot
+3930174,Group Stage,Portugal,Turkey,Bruno Miguel Borges Fernandes,34,104.7,54.4,0.0717,Off T,0,Open Play,Right Foot
+3930174,Group Stage,Portugal,Turkey,Cristiano Ronaldo dos Santos Aveiro,36,101.7,30.6,0.0568,Off T,0,Open Play,Right Foot
+3930174,Group Stage,Turkey,Portugal,Orkun Kökçü,40,94.9,32.7,0.0391,Saved,0,Open Play,Right Foot
+3930174,Group Stage,Turkey,Portugal,Yusuf Yazıcı,52,89.4,55.2,0.0065,Saved,0,Open Play,Left Foot
+3930174,Group Stage,Portugal,Turkey,Bruno Miguel Borges Fernandes,55,111.5,36.3,0.8519,Goal,1,Open Play,Right Foot
+3930174,Group Stage,Turkey,Portugal,Yusuf Yazıcı,59,99.9,27.2,0.02,Blocked,0,Open Play,Left Foot
+3930174,Group Stage,Turkey,Portugal,Kenan Yildiz,62,97.1,24.9,0.026,Off T,0,Open Play,Right Foot
+3930174,Group Stage,Portugal,Turkey,Cristiano Ronaldo dos Santos Aveiro,65,113.1,37.7,0.1973,Wayward,0,Open Play,Head
+3930174,Group Stage,Turkey,Portugal,Arda Güler,80,91.0,51.3,0.0148,Blocked,0,Open Play,Left Foot
+3930174,Group Stage,Portugal,Turkey,Bernardo Mota Veiga de Carvalho e Silva,89,107.0,35.5,0.1676,Blocked,0,Open Play,Left Foot
+3930174,Group Stage,Turkey,Portugal,Arda Güler,90,60.9,25.6,0.0042,Wayward,0,Open Play,Left Foot
+3930174,Group Stage,Portugal,Turkey,Rúben Diogo Da Silva Neves,94,93.8,50.2,0.0247,Off T,0,Open Play,Right Foot
+3930176,Group Stage,Germany,Switzerland,Kai Havertz,2,113.5,44.4,0.0893,Saved,0,Open Play,Head
+3930176,Group Stage,Germany,Switzerland,İlkay Gündoğan,10,96.5,38.1,0.0374,Blocked,0,Open Play,Right Foot
+3930176,Group Stage,Germany,Switzerland,Kai Havertz,11,108.1,35.2,0.0871,Blocked,0,Open Play,Left Foot
+3930176,Group Stage,Switzerland,Germany,Dan Ndoye,27,113.7,35.0,0.1812,Goal,1,Open Play,Right Foot
+3930176,Group Stage,Switzerland,Germany,Dan Ndoye,30,101.6,26.3,0.0464,Off T,0,Open Play,Left Foot
+3930176,Group Stage,Germany,Switzerland,Robert Andrich,32,89.8,32.6,0.0215,Blocked,0,Open Play,Right Foot
+3930176,Group Stage,Germany,Switzerland,Antonio Rüdiger,40,114.5,47.4,0.0758,Off T,0,Open Play,Head
+3930176,Group Stage,Germany,Switzerland,Kai Havertz,41,107.1,49.6,0.0743,Off T,0,Open Play,Left Foot
+3930176,Group Stage,Germany,Switzerland,Robert Andrich,42,95.2,40.1,0.0248,Off T,0,Open Play,Right Foot
+3930176,Group Stage,Germany,Switzerland,Jamal Musiala,49,101.0,49.4,0.1049,Saved,0,Open Play,Right Foot
+3930176,Group Stage,Germany,Switzerland,İlkay Gündoğan,49,103.1,41.9,0.1306,Off T,0,Open Play,Left Foot
+3930176,Group Stage,Germany,Switzerland,Toni Kroos,54,95.3,38.1,0.0421,Off T,0,Open Play,Right Foot
+3930176,Group Stage,Germany,Switzerland,David Raum,62,94.6,26.2,0.0244,Off T,0,Open Play,Left Foot
+3930176,Group Stage,Germany,Switzerland,İlkay Gündoğan,63,110.0,40.4,0.0618,Blocked,0,Open Play,Head
+3930176,Group Stage,Germany,Switzerland,Kai Havertz,63,110.4,38.4,0.062,Off T,0,Open Play,Head
+3930176,Group Stage,Germany,Switzerland,Kai Havertz,67,115.1,42.0,0.2299,Off T,0,Open Play,Head
+3930176,Group Stage,Germany,Switzerland,Joshua Kimmich,69,114.2,47.9,0.0952,Blocked,0,Open Play,Left Foot
+3930176,Group Stage,Switzerland,Germany,Kwadwo Duah,73,93.6,51.6,0.0241,Saved,0,Open Play,Right Foot
+3930176,Group Stage,Germany,Switzerland,Leroy Sané,81,104.6,53.2,0.0373,Off T,0,Open Play,Left Foot
+3930176,Group Stage,Germany,Switzerland,Kai Havertz,84,114.0,42.8,0.1803,Post,0,Open Play,Head
+3930176,Group Stage,Switzerland,Germany,Granit Xhaka,87,93.4,33.9,0.0284,Saved,0,Open Play,Left Foot
+3930176,Group Stage,Germany,Switzerland,Niclas Füllkrug,91,113.6,41.4,0.1629,Goal,1,Open Play,Head
+3930177,Group Stage,Hungary,Scotland,Bendegúz Bolla,7,89.7,52.3,0.0157,Saved,0,Open Play,Right Foot
+3930177,Group Stage,Hungary,Scotland,Dominik Szoboszlai,31,88.7,42.2,0.0258,Blocked,0,Free Kick,Right Foot
+3930177,Group Stage,Hungary,Scotland,Roland Sallai,34,94.0,53.7,0.019,Off T,0,Open Play,Right Foot
+3930177,Group Stage,Hungary,Scotland,Willi Orban,40,116.5,32.3,0.1402,Post,0,Open Play,Head
+3930177,Group Stage,Hungary,Scotland,Dominik Szoboszlai,45,94.9,41.6,0.0433,Off T,0,Open Play,Left Foot
+3930177,Group Stage,Hungary,Scotland,Roland Sallai,48,104.9,32.0,0.0579,Saved,0,Open Play,Left Foot
+3930177,Group Stage,Scotland,Hungary,Che Adams,52,96.1,25.7,0.0205,Off T,0,Open Play,Right Foot
+3930177,Group Stage,Hungary,Scotland,Roland Sallai,55,104.1,28.3,0.0385,Blocked,0,Open Play,Right Foot
+3930177,Group Stage,Hungary,Scotland,Márton Dárdai,63,110.5,43.0,0.0571,Off T,0,Open Play,Head
+3930177,Group Stage,Hungary,Scotland,András Schäfer,89,103.9,55.7,0.0366,Saved,0,Open Play,Right Foot
+3930177,Group Stage,Hungary,Scotland,András Schäfer,89,97.0,44.5,0.0294,Off T,0,Open Play,Left Foot
+3930177,Group Stage,Hungary,Scotland,Dominik Szoboszlai,90,111.0,54.9,0.0607,Saved,0,Open Play,Right Foot
+3930177,Group Stage,Hungary,Scotland,Kevin Csoboth,91,113.8,51.1,0.1848,Post,0,Open Play,Right Foot
+3930177,Group Stage,Scotland,Hungary,Callum McGregor,93,95.1,32.3,0.0262,Blocked,0,Open Play,Left Foot
+3930177,Group Stage,Hungary,Scotland,Ádám Nagy,96,93.3,29.7,0.0289,Off T,0,Open Play,Left Foot
+3930177,Group Stage,Scotland,Hungary,Lewis Morgan,97,105.4,30.9,0.0558,Blocked,0,Open Play,Left Foot
+3930177,Group Stage,Scotland,Hungary,Callum McGregor,99,110.3,39.8,0.081,Blocked,0,Open Play,Right Foot
+3930177,Group Stage,Hungary,Scotland,Kevin Csoboth,99,107.2,36.6,0.2629,Goal,1,Open Play,Right Foot
+3930178,Group Stage,Croatia,Italy,Luka Sučić,4,91.7,51.0,0.0215,Saved,0,Open Play,Left Foot
+3930178,Group Stage,Italy,Croatia,Lorenzo Pellegrini,10,103.9,30.6,0.0406,Off T,0,Open Play,Head
+3930178,Group Stage,Italy,Croatia,Mateo Retegui,20,113.2,41.4,0.1148,Blocked,0,Open Play,Head
+3930178,Group Stage,Italy,Croatia,Mateo Retegui,21,106.2,36.1,0.0504,Blocked,0,Open Play,Right Foot
+3930178,Group Stage,Italy,Croatia,Mateo Retegui,25,111.3,25.7,0.0253,Blocked,0,Open Play,Left Foot
+3930178,Group Stage,Italy,Croatia,Alessandro Bastoni,26,113.0,33.8,0.1432,Saved,0,Open Play,Head
+3930178,Group Stage,Croatia,Italy,Luka Modrić,30,99.8,54.3,0.0201,Blocked,0,Open Play,Right Foot
+3930178,Group Stage,Italy,Croatia,Lorenzo Pellegrini,35,103.4,27.1,0.0276,Saved,0,Open Play,Left Foot
+3930178,Group Stage,Croatia,Italy,Andrej Kramarić,51,107.2,26.5,0.0243,Blocked,0,Open Play,Right Foot
+3930178,Group Stage,Croatia,Italy,Luka Modrić,53,108.0,40.0,0.7835,Saved,0,Penalty,Right Foot
+3930178,Group Stage,Croatia,Italy,Ante Budimir,54,111.3,40.9,0.1486,Saved,0,Open Play,Left Foot
+3930178,Group Stage,Croatia,Italy,Luka Modrić,54,114.9,35.5,0.4853,Goal,1,Open Play,Left Foot
+3930178,Group Stage,Italy,Croatia,Davide Frattesi,56,107.5,29.9,0.0535,Blocked,0,Open Play,Right Foot
+3930178,Group Stage,Italy,Croatia,Alessandro Bastoni,60,114.2,42.9,0.1692,Off T,0,Open Play,Head
+3930178,Group Stage,Italy,Croatia,Matteo Darmian,66,112.1,28.1,0.0552,Blocked,0,Open Play,Left Foot
+3930178,Group Stage,Italy,Croatia,Giacomo Raspadori,71,94.2,44.2,0.066,Blocked,0,Free Kick,Right Foot
+3930178,Group Stage,Italy,Croatia,Giovanni Di Lorenzo,72,114.6,34.8,0.1153,Blocked,0,Open Play,Head
+3930178,Group Stage,Italy,Croatia,Gianluca Scamacca,91,87.8,29.5,0.0137,Blocked,0,Open Play,Right Foot
+3930178,Group Stage,Italy,Croatia,Mattia Zaccagni,97,103.4,28.0,0.1107,Goal,1,Open Play,Right Foot
+3930179,Group Stage,Spain,Albania,Mikel Merino Zazón,11,107.3,33.1,0.025,Saved,0,Open Play,Head
+3930179,Group Stage,Spain,Albania,José Luis Sanmartín Mato,11,107.6,38.7,0.0606,Off T,0,Open Play,Head
+3930179,Group Stage,Spain,Albania,Ferrán Torres García,12,107.5,53.5,0.1036,Goal,1,Open Play,Left Foot
+3930179,Group Stage,Spain,Albania,Daniel Olmo Carvajal,20,96.3,57.9,0.0104,Off T,0,Open Play,Right Foot
+3930179,Group Stage,Spain,Albania,Daniel Vivian Moreno,25,109.7,40.6,0.0466,Wayward,0,Open Play,Head
+3930179,Group Stage,Spain,Albania,Daniel Olmo Carvajal,35,113.0,47.4,0.104,Blocked,0,Open Play,Right Foot
+3930179,Group Stage,Spain,Albania,Ferrán Torres García,40,109.6,50.2,0.0304,Off T,0,Open Play,Head
+3930179,Group Stage,Spain,Albania,Mikel Merino Zazón,43,107.1,33.1,0.1003,Off T,0,Open Play,Left Foot
+3930179,Group Stage,Albania,Spain,Kristjan Asllani,44,95.6,37.2,0.0279,Saved,0,Open Play,Right Foot
+3930179,Group Stage,Spain,Albania,José Luis Sanmartín Mato,45,104.0,24.3,0.015,Off T,0,Open Play,Right Foot
+3930179,Group Stage,Spain,Albania,José Luis Sanmartín Mato,46,110.4,36.2,0.0672,Off T,0,Open Play,Left Foot
+3930179,Group Stage,Spain,Albania,Mikel Oyarzabal Ugarte,47,108.6,44.8,0.1872,Saved,0,Open Play,Left Foot
+3930179,Group Stage,Albania,Spain,Kristjan Asllani,49,96.6,33.2,0.045,Blocked,0,Open Play,Right Foot
+3930179,Group Stage,Spain,Albania,Daniel Olmo Carvajal,49,61.0,43.8,0.0061,Off T,0,Open Play,Right Foot
+3930179,Group Stage,Albania,Spain,Armando Broja,63,105.7,48.1,0.1171,Saved,0,Open Play,Right Foot
+3930179,Group Stage,Albania,Spain,Kristjan Asllani,64,95.7,31.3,0.0309,Blocked,0,Open Play,Left Foot
+3930179,Group Stage,Albania,Spain,Jasir Asani,68,96.6,62.0,0.0086,Saved,0,Open Play,Left Foot
+3930179,Group Stage,Spain,Albania,Fermin Lopez Marin,75,95.9,60.5,0.0087,Wayward,0,Open Play,Right Foot
+3930179,Group Stage,Spain,Albania,Fermin Lopez Marin,76,97.4,48.1,0.0294,Blocked,0,Open Play,Left Foot
+3930179,Group Stage,Albania,Spain,Kristjan Asllani,76,98.4,23.9,0.0258,Off T,0,Open Play,Left Foot
+3930179,Group Stage,Albania,Spain,Medon Berisha,77,94.4,46.8,0.0318,Blocked,0,Open Play,Right Foot
+3930179,Group Stage,Spain,Albania,Daniel Olmo Carvajal,78,107.7,27.1,0.0614,Blocked,0,Open Play,Right Foot
+3930179,Group Stage,Spain,Albania,Álvaro Borja Morata Martín,79,113.8,35.1,0.0959,Off T,0,Open Play,Head
+3930179,Group Stage,Albania,Spain,Arbër Hoxha,83,111.0,26.6,0.058,Off T,0,Open Play,Right Foot
+3930179,Group Stage,Albania,Spain,Berat Djimsiti,91,109.2,44.2,0.0463,Wayward,0,Open Play,Head
+3930179,Group Stage,Albania,Spain,Armando Broja,91,108.8,40.8,0.1119,Saved,0,Open Play,Right Foot
+3938643,Group Stage,Poland,France,Piotr Zieliński,5,93.9,38.9,0.0218,Saved,0,Open Play,Right Foot
+3938643,Group Stage,France,Poland,Theo Bernard François Hernández,10,112.6,27.2,0.0828,Saved,0,Open Play,Left Foot
+3938643,Group Stage,Poland,France,Sebastian Szymański,13,104.2,25.1,0.0542,Blocked,0,Open Play,Left Foot
+3938643,Group Stage,Poland,France,Kacper Urbanski,14,106.1,38.3,0.0696,Saved,0,Open Play,Left Foot
+3938643,Group Stage,Poland,France,Jakub Moder,16,89.7,27.9,0.0165,Off T,0,Open Play,Right Foot
+3938643,Group Stage,France,Poland,Ousmane Dembélé,18,111.9,50.0,0.2453,Saved,0,Open Play,Right Foot
+3938643,Group Stage,Poland,France,Robert Lewandowski,33,109.8,43.8,0.0824,Off T,0,Open Play,Head
+3938643,Group Stage,France,Poland,Aurélien Djani Tchouaméni,35,87.3,30.0,0.0135,Blocked,0,Open Play,Right Foot
+3938643,Group Stage,France,Poland,Aurélien Djani Tchouaméni,37,99.1,41.7,0.0507,Blocked,0,Open Play,Right Foot
+3938643,Group Stage,France,Poland,William Saliba,37,107.3,39.0,0.0463,Off T,0,Open Play,Right Foot
+3938643,Group Stage,Poland,France,Robert Lewandowski,38,87.5,38.4,0.0174,Wayward,0,Open Play,Left Foot
+3938643,Group Stage,France,Poland,Kylian Mbappé Lottin,41,115.6,29.2,0.119,Saved,0,Open Play,Right Foot
+3938643,Group Stage,France,Poland,Dayotchanculle Upamecano,41,112.3,37.3,0.092,Off T,0,Open Play,Head
+3938643,Group Stage,France,Poland,Kylian Mbappé Lottin,44,117.6,29.5,0.0333,Saved,0,Open Play,Right Foot
+3938643,Group Stage,France,Poland,N'Golo Kanté,47,100.2,42.3,0.0664,Blocked,0,Open Play,Right Foot
+3938643,Group Stage,France,Poland,Kylian Mbappé Lottin,48,103.5,23.3,0.0335,Saved,0,Open Play,Right Foot
+3938643,Group Stage,France,Poland,Kylian Mbappé Lottin,48,100.0,24.9,0.03,Off T,0,Open Play,Right Foot
+3938643,Group Stage,France,Poland,Ousmane Dembélé,50,105.4,60.0,0.0069,Blocked,0,Open Play,Left Foot
+3938643,Group Stage,France,Poland,Kylian Mbappé Lottin,55,108.1,40.1,0.7835,Goal,1,Penalty,Right Foot
+3938643,Group Stage,France,Poland,Bradley Barcola,58,116.6,27.4,0.0196,Saved,0,Open Play,Left Foot
+3938643,Group Stage,France,Poland,Antoine Griezmann,65,95.3,45.7,0.0441,Blocked,0,Open Play,Left Foot
+3938643,Group Stage,Poland,France,Robert Lewandowski,71,92.6,31.8,0.0239,Off T,0,Open Play,Right Foot
+3938643,Group Stage,Poland,France,Robert Lewandowski,78,108.0,40.0,0.7835,Goal,1,Penalty,Right Foot
+3938643,Group Stage,Poland,France,Robert Lewandowski,81,108.7,26.8,0.082,Off T,0,Open Play,Left Foot
+3938643,Group Stage,Poland,France,Kacper Urbanski,83,95.5,32.7,0.0278,Blocked,0,Open Play,Right Foot
+3938643,Group Stage,France,Poland,Olivier Giroud,84,107.7,41.7,0.102,Blocked,0,Open Play,Right Foot
+3938643,Group Stage,France,Poland,Olivier Giroud,86,110.2,38.3,0.0549,Blocked,0,Open Play,Head
+3938643,Group Stage,France,Poland,Youssouf Fofana,86,94.4,28.8,0.023,Blocked,0,Open Play,Right Foot
+3938643,Group Stage,France,Poland,Kylian Mbappé Lottin,91,100.9,29.8,0.0444,Saved,0,Open Play,Right Foot
+3930180,Group Stage,Netherlands,Austria,Tijjani Reijnders,13,106.5,38.9,0.1426,Off T,0,Open Play,Right Foot
+3930180,Group Stage,Netherlands,Austria,Donyell Malen,22,105.6,32.9,0.3508,Off T,0,Open Play,Left Foot
+3930180,Group Stage,Austria,Netherlands,Marcel Sabitzer,29,102.9,33.1,0.0553,Blocked,0,Open Play,Right Foot
+3930180,Group Stage,Austria,Netherlands,Florian Grillitsch,29,94.8,24.0,0.0124,Saved,0,Open Play,Right Foot
+3930180,Group Stage,Netherlands,Austria,Tijjani Reijnders,33,95.2,44.7,0.0446,Off T,0,Open Play,Right Foot
+3930180,Group Stage,Austria,Netherlands,Marcel Sabitzer,36,97.9,25.3,0.0235,Saved,0,Open Play,Right Foot
+3930180,Group Stage,Austria,Netherlands,Florian Grillitsch,37,101.1,31.8,0.0356,Blocked,0,Open Play,Right Foot
+3930180,Group Stage,Austria,Netherlands,Marko Arnautović,37,112.7,41.3,0.4613,Saved,0,Open Play,Right Foot
+3930180,Group Stage,Austria,Netherlands,Patrick Wimmer,39,94.7,40.5,0.058,Blocked,0,Open Play,Right Foot
+3930180,Group Stage,Netherlands,Austria,Jerdy Schouten,40,107.5,50.1,0.072,Blocked,0,Open Play,Right Foot
+3930180,Group Stage,Netherlands,Austria,Memphis Depay,40,114.9,35.9,0.3757,Post,0,Open Play,Head
+3930180,Group Stage,Austria,Netherlands,Florian Grillitsch,46,111.8,41.6,0.0996,Off T,0,Open Play,Head
+3930180,Group Stage,Netherlands,Austria,Cody Mathès Gakpo,46,107.4,30.2,0.1261,Goal,1,Open Play,Right Foot
+3930180,Group Stage,Netherlands,Austria,Virgil van Dijk,53,114.4,37.3,0.1408,Blocked,0,Open Play,Head
+3930180,Group Stage,Austria,Netherlands,Romano Schmid,58,110.2,40.7,0.1798,Goal,1,Open Play,Head
+3930180,Group Stage,Netherlands,Austria,Xavi Simons,72,74.0,47.8,0.0204,Off T,0,Open Play,Right Foot
+3930180,Group Stage,Netherlands,Austria,Memphis Depay,74,109.7,37.5,0.1218,Goal,1,Open Play,Right Foot
+3930180,Group Stage,Austria,Netherlands,Marcel Sabitzer,79,114.9,29.1,0.1324,Goal,1,Open Play,Left Foot
+3930180,Group Stage,Netherlands,Austria,Wout Weghorst,85,107.3,41.3,0.0805,Off T,0,Open Play,Head
+3930180,Group Stage,Netherlands,Austria,Memphis Depay,94,111.2,25.1,0.0349,Blocked,0,Open Play,Right Foot
+3930181,Group Stage,Slovenia,England,Benjamin Šeško,4,108.3,38.4,0.0689,Saved,0,Open Play,Head
+3930181,Group Stage,Slovenia,England,Andraž Šporar,18,95.3,42.9,0.0427,Saved Off Target,0,Open Play,Left Foot
+3930181,Group Stage,England,Slovenia,Harry Kane,29,102.6,38.8,0.0428,Blocked,0,Open Play,Left Foot
+3930181,Group Stage,England,Slovenia,Harry Kane,30,107.8,35.8,0.028,Blocked,0,Open Play,Head
+3930181,Group Stage,England,Slovenia,Harry Kane,30,98.9,22.2,0.02,Saved,0,Open Play,Right Foot
+3930181,Group Stage,Slovenia,England,Andraž Šporar,31,92.8,35.5,0.0254,Blocked,0,Open Play,Left Foot
+3930181,Group Stage,England,Slovenia,Phil Foden,34,89.4,52.7,0.0212,Saved,0,Free Kick,Left Foot
+3930181,Group Stage,England,Slovenia,Harry Kane,39,115.7,43.3,0.3953,Off T,0,Open Play,Right Foot
+3930181,Group Stage,England,Slovenia,Harry Kane,42,89.8,50.8,0.0226,Blocked,0,Open Play,Right Foot
+3930181,Group Stage,England,Slovenia,Phil Foden,50,88.6,43.7,0.0115,Off T,0,Open Play,Left Foot
+3930181,Group Stage,England,Slovenia,John Stones,57,112.0,40.9,0.0716,Blocked,0,Open Play,Head
+3930181,Group Stage,Slovenia,England,Adam Gnezda Čerin,62,92.3,51.6,0.0279,Off T,0,Open Play,Left Foot
+3930181,Group Stage,England,Slovenia,Declan Rice,74,106.7,23.3,0.0351,Off T,0,Open Play,Right Foot
+3930181,Group Stage,England,Slovenia,Phil Foden,82,97.7,32.1,0.0383,Blocked,0,Open Play,Left Foot
+3930181,Group Stage,England,Slovenia,Cole Palmer,91,103.2,55.2,0.0473,Saved,0,Open Play,Left Foot
+3930181,Group Stage,England,Slovenia,Trent Alexander-Arnold,93,90.1,44.8,0.0224,Off T,0,Open Play,Right Foot
+3930182,Group Stage,Denmark,Serbia,Alexander Hartmann Bah,15,112.0,43.3,0.1843,Off T,0,Open Play,Head
+3930182,Group Stage,Denmark,Serbia,Christian Dannemann Eriksen,20,94.6,37.4,0.0541,Saved,0,Open Play,Right Foot
+3930182,Group Stage,Denmark,Serbia,Christian Dannemann Eriksen,21,108.8,22.8,0.0126,Blocked,0,Open Play,Right Foot
+3930182,Group Stage,Serbia,Denmark,Aleksandar Mitrović,28,110.4,40.1,0.0619,Blocked,0,Open Play,Head
+3930182,Group Stage,Denmark,Serbia,Rasmus Winther Højlund,31,104.1,55.1,0.0458,Saved,0,Open Play,Left Foot
+3930182,Group Stage,Denmark,Serbia,Jonas Older Wind,38,103.5,39.6,0.1086,Off T,0,Open Play,Right Foot
+3930182,Group Stage,Denmark,Serbia,Andreas Skov Olsen,50,105.4,55.7,0.0397,Blocked,0,Open Play,Left Foot
+3930182,Group Stage,Denmark,Serbia,Andreas Christensen,59,91.2,33.8,0.0207,Off T,0,Open Play,Right Foot
+3930182,Group Stage,Denmark,Serbia,Morten Hjulmand,61,91.8,48.8,0.0218,Off T,0,Open Play,Right Foot
+3930182,Group Stage,Denmark,Serbia,Jannik Vestergaard,64,110.1,37.1,0.045,Saved,0,Open Play,Head
+3930182,Group Stage,Denmark,Serbia,Morten Hjulmand,66,89.0,29.3,0.0189,Off T,0,Open Play,Right Foot
+3930182,Group Stage,Serbia,Denmark,Aleksandar Mitrović,80,107.4,23.8,0.032,Off T,0,Open Play,Right Foot
+3930182,Group Stage,Serbia,Denmark,Aleksandar Mitrović,82,110.9,34.6,0.0652,Wayward,0,Open Play,Head
+3930182,Group Stage,Serbia,Denmark,Dušan Vlahović,88,106.9,46.4,0.0608,Off T,0,Open Play,Head
+3930182,Group Stage,Serbia,Denmark,Sergej Milinković-Savić,91,101.3,42.6,0.1046,Saved,0,Open Play,Right Foot
+3930183,Group Stage,Slovakia,Romania,Juraj Kucka,0,99.2,37.7,0.0421,Blocked,0,Open Play,Right Foot
+3930183,Group Stage,Slovakia,Romania,Peter Pekarík,0,94.7,52.1,0.0188,Wayward,0,Open Play,Right Foot
+3930183,Group Stage,Slovakia,Romania,David Strelec,0,105.8,41.1,0.1663,Wayward,0,Open Play,Left Foot
+3930183,Group Stage,Slovakia,Romania,Juraj Kucka,8,108.5,45.8,0.0436,Saved,0,Open Play,Head
+3930183,Group Stage,Slovakia,Romania,Dávid Hancko,9,104.9,42.4,0.0615,Off T,0,Open Play,Right Foot
+3930183,Group Stage,Romania,Slovakia,Andrei Florin Ratiu,10,106.4,27.8,0.0838,Saved,0,Open Play,Right Foot
+3930183,Group Stage,Romania,Slovakia,Ianis Hagi,10,109.9,53.7,0.0421,Off T,0,Open Play,Right Foot
+3930183,Group Stage,Romania,Slovakia,Răzvan Gabriel Marin,12,85.4,26.7,0.0079,Off T,0,Free Kick,Right Foot
+3930183,Group Stage,Slovakia,Romania,Milan Škriniar,21,112.3,37.0,0.1285,Off T,0,Open Play,Other
+3930183,Group Stage,Romania,Slovakia,Nicolae Claudiu Stanciu,22,97.0,22.1,0.01,Saved,0,Open Play,Right Foot
+3930183,Group Stage,Slovakia,Romania,Ondrej Duda,23,111.2,35.7,0.1094,Goal,1,Open Play,Head
+3930183,Group Stage,Slovakia,Romania,David Strelec,30,109.3,44.5,0.0879,Off T,0,Open Play,Left Foot
+3930183,Group Stage,Romania,Slovakia,Andrei Florin Ratiu,32,94.0,43.4,0.0375,Saved,0,Open Play,Right Foot
+3930183,Group Stage,Romania,Slovakia,Răzvan Gabriel Marin,36,108.1,40.1,0.7835,Goal,1,Penalty,Right Foot
+3930183,Group Stage,Romania,Slovakia,Denis Mihai Drăguş,42,102.7,30.5,0.0456,Off T,0,Open Play,Right Foot
+3930183,Group Stage,Slovakia,Romania,David Strelec,43,87.6,38.5,0.0164,Off T,0,Open Play,Left Foot
+3930183,Group Stage,Slovakia,Romania,Lukáš Haraslín,51,116.4,26.9,0.0126,Saved,0,Open Play,Right Foot
+3930183,Group Stage,Romania,Slovakia,Răzvan Gabriel Marin,60,101.6,49.2,0.0527,Saved,0,Open Play,Right Foot
+3930183,Group Stage,Romania,Slovakia,Denis Mihai Drăguş,60,104.3,26.3,0.0589,Off T,0,Open Play,Right Foot
+3930183,Group Stage,Slovakia,Romania,David Strelec,63,103.7,41.8,0.1146,Saved,0,Open Play,Left Foot
+3930183,Group Stage,Slovakia,Romania,Lukáš Haraslín,64,105.1,23.6,0.0364,Off T,0,Open Play,Right Foot
+3930183,Group Stage,Slovakia,Romania,Denis Vavro,75,84.5,53.0,0.0065,Off T,0,Open Play,Right Foot
+3930184,Group Stage,Czech Republic,Turkey,Lukáš Provod,1,99.4,27.2,0.0318,Saved,0,Open Play,Left Foot
+3930184,Group Stage,Turkey,Czech Republic,Kenan Yildiz,6,112.6,21.5,0.0087,Blocked,0,Open Play,Right Foot
+3930184,Group Stage,Turkey,Czech Republic,Arda Güler,12,90.5,37.1,0.0266,Off T,0,Open Play,Left Foot
+3930184,Group Stage,Czech Republic,Turkey,David Jurásek,14,80.6,30.1,0.0066,Saved,0,Open Play,Left Foot
+3930184,Group Stage,Czech Republic,Turkey,Robin Hranáč,16,113.5,37.1,0.2579,Off T,0,Open Play,Head
+3930184,Group Stage,Czech Republic,Turkey,Robin Hranáč,22,112.5,35.8,0.0792,Blocked,0,Open Play,Right Foot
+3930184,Group Stage,Turkey,Czech Republic,Kenan Yildiz,26,111.7,25.6,0.034,Blocked,0,Open Play,Left Foot
+3930184,Group Stage,Turkey,Czech Republic,Arda Güler,26,112.9,36.9,0.1748,Blocked,0,Open Play,Left Foot
+3930184,Group Stage,Turkey,Czech Republic,Samet Akaydin,27,113.2,33.9,0.0753,Off T,0,Open Play,Head
+3930184,Group Stage,Turkey,Czech Republic,Hakan Çalhanoğlu,41,114.8,55.0,0.0118,Blocked,0,Open Play,Right Foot
+3930184,Group Stage,Turkey,Czech Republic,Hakan Çalhanoğlu,42,98.6,58.7,0.0106,Off T,0,Open Play,Right Foot
+3930184,Group Stage,Czech Republic,Turkey,David Jurásek,44,110.3,23.8,0.0731,Saved,0,Open Play,Left Foot
+3930184,Group Stage,Turkey,Czech Republic,Arda Güler,48,98.0,49.4,0.0392,Off T,0,Open Play,Right Foot
+3930184,Group Stage,Turkey,Czech Republic,Barış Alper Yılmaz,45,115.1,50.8,0.0486,Saved,0,Open Play,Head
+3930184,Group Stage,Turkey,Czech Republic,Kenan Yildiz,46,99.6,29.5,0.0397,Off T,0,Open Play,Right Foot
+3930184,Group Stage,Czech Republic,Turkey,Adam Hložek,49,99.0,48.6,0.0327,Saved,0,Open Play,Left Foot
+3930184,Group Stage,Turkey,Czech Republic,Kenan Yildiz,50,106.4,37.9,0.1032,Blocked,0,Open Play,Right Foot
+3930184,Group Stage,Turkey,Czech Republic,Kenan Yildiz,50,109.4,42.3,0.1287,Saved,0,Open Play,Right Foot
+3930184,Group Stage,Turkey,Czech Republic,İsmail Yüksek,50,98.8,38.1,0.0459,Blocked,0,Open Play,Right Foot
+3930184,Group Stage,Turkey,Czech Republic,Hakan Çalhanoğlu,50,109.2,26.0,0.0712,Goal,1,Open Play,Right Foot
+3930184,Group Stage,Czech Republic,Turkey,Ladislav Krejčí,63,114.8,49.8,0.0508,Saved,0,Open Play,Head
+3930184,Group Stage,Czech Republic,Turkey,Tomáš Chorý,65,116.0,44.0,0.5512,Blocked,0,Open Play,Right Foot
+3930184,Group Stage,Czech Republic,Turkey,Tomáš Souček,65,113.6,46.4,0.1198,Goal,1,Open Play,Right Foot
+3930184,Group Stage,Turkey,Czech Republic,Kenan Yildiz,72,111.8,34.4,0.1691,Blocked,0,Open Play,Left Foot
+3930184,Group Stage,Czech Republic,Turkey,Ondřej Lingr,79,111.9,32.5,0.106,Wayward,0,Open Play,Right Foot
+3930184,Group Stage,Czech Republic,Turkey,Ondřej Lingr,79,112.7,34.1,0.0745,Off T,0,Open Play,Head
+3930184,Group Stage,Turkey,Czech Republic,Okay Yokuşlu,86,95.4,36.3,0.0405,Off T,0,Open Play,Right Foot
+3930184,Group Stage,Czech Republic,Turkey,Matěj Jurásek,90,98.5,28.7,0.0266,Blocked,0,Open Play,Right Foot
+3930184,Group Stage,Turkey,Czech Republic,Barış Alper Yılmaz,91,99.1,45.5,0.1038,Saved,0,Open Play,Left Foot
+3930184,Group Stage,Turkey,Czech Republic,Cenk Tosun,93,105.3,34.5,0.086,Goal,1,Open Play,Right Foot
+3938645,Group Stage,Belgium,Ukraine,Romelu Lukaku Menama,6,110.8,30.7,0.2745,Saved,0,Open Play,Left Foot
+3938645,Group Stage,Ukraine,Belgium,Roman Yaremchuk,19,91.1,43.1,0.0309,Saved,0,Open Play,Right Foot
+3938645,Group Stage,Ukraine,Belgium,Artem Dovbyk,20,94.9,34.0,0.0403,Off T,0,Open Play,Left Foot
+3938645,Group Stage,Belgium,Ukraine,Arthur Theate,22,94.4,19.7,0.0082,Off T,0,Open Play,Left Foot
+3938645,Group Stage,Ukraine,Belgium,Volodymyr Brazhko,25,91.9,51.3,0.018,Blocked,0,Open Play,Right Foot
+3938645,Group Stage,Ukraine,Belgium,Georgiy Sudakov,26,95.9,37.0,0.0463,Off T,0,Open Play,Right Foot
+3938645,Group Stage,Ukraine,Belgium,Roman Yaremchuk,28,111.3,37.0,0.1022,Off T,0,Open Play,Head
+3938645,Group Stage,Belgium,Ukraine,Kevin De Bruyne,32,88.1,69.5,0.0058,Off T,0,Free Kick,Right Foot
+3938645,Group Stage,Ukraine,Belgium,Georgiy Sudakov,33,104.2,29.9,0.05,Saved,0,Open Play,Right Foot
+3938645,Group Stage,Ukraine,Belgium,Georgiy Sudakov,43,89.8,17.6,0.0075,Saved,0,Free Kick,Right Foot
+3938645,Group Stage,Belgium,Ukraine,Kevin De Bruyne,45,100.3,24.5,0.027,Saved,0,Open Play,Right Foot
+3938645,Group Stage,Belgium,Ukraine,Youri Tielemans,51,96.3,25.6,0.0209,Blocked,0,Open Play,Right Foot
+3938645,Group Stage,Belgium,Ukraine,Youri Tielemans,51,98.2,46.6,0.0338,Blocked,0,Open Play,Right Foot
+3938645,Group Stage,Belgium,Ukraine,Jeremy Doku,54,100.3,45.7,0.0461,Blocked,0,Open Play,Left Foot
+3938645,Group Stage,Belgium,Ukraine,Romelu Lukaku Menama,64,105.3,54.2,0.0328,Saved,0,Open Play,Left Foot
+3938645,Group Stage,Belgium,Ukraine,Yannick Ferreira Carrasco,72,102.0,34.5,0.0651,Saved,0,Open Play,Right Foot
+3938645,Group Stage,Belgium,Ukraine,Jeremy Doku,72,101.9,39.2,0.0495,Blocked,0,Open Play,Right Foot
+3938645,Group Stage,Ukraine,Belgium,Artem Dovbyk,74,116.1,30.6,0.0542,Blocked,0,Open Play,Left Foot
+3938645,Group Stage,Ukraine,Belgium,Artem Dovbyk,78,108.5,53.2,0.0341,Off T,0,Open Play,Right Foot
+3938645,Group Stage,Ukraine,Belgium,Ruslan Malinovskiy,82,119.0,79.3,0.0002,Saved,0,Corner,Left Foot
+3938645,Group Stage,Ukraine,Belgium,Taras Stepanenko,82,112.4,45.3,0.067,Off T,0,Open Play,Head
+3938645,Group Stage,Ukraine,Belgium,Andriy Yarmolenko,84,94.1,50.8,0.0153,Blocked,0,Open Play,Right Foot
+3938645,Group Stage,Belgium,Ukraine,Johan Bakayoko,86,103.2,48.4,0.0633,Off T,0,Open Play,Left Foot
+3938645,Group Stage,Ukraine,Belgium,Ruslan Malinovskiy,87,97.8,42.7,0.0625,Blocked,0,Open Play,Left Foot
+3938645,Group Stage,Ukraine,Belgium,Georgiy Sudakov,90,104.4,44.6,0.1808,Saved,0,Open Play,Right Foot
+3938645,Group Stage,Belgium,Ukraine,Yannick Ferreira Carrasco,92,108.7,18.4,0.007,Blocked,0,Open Play,Right Foot
+3938644,Group Stage,Georgia,Portugal,Khvicha Kvaratskhelia,1,111.4,29.2,0.1367,Goal,1,Open Play,Left Foot
+3938644,Group Stage,Georgia,Portugal,Giorgi Chakvetadze,11,103.7,19.9,0.0084,Blocked,0,Open Play,Right Foot
+3938644,Group Stage,Portugal,Georgia,Cristiano Ronaldo dos Santos Aveiro,16,87.1,41.7,0.0227,Saved,0,Free Kick,Right Foot
+3938644,Group Stage,Portugal,Georgia,Gonçalo Bernardo Inácio,16,109.9,37.3,0.0491,Blocked,0,Open Play,Head
+3938644,Group Stage,Portugal,Georgia,José Diogo Dalot Teixeira,17,106.2,46.7,0.026,Off T,0,Open Play,Head
+3938644,Group Stage,Portugal,Georgia,António João Pereira Albuquerque Tavares Silva,20,118.7,34.9,0.1873,Off T,0,Open Play,Head
+3938644,Group Stage,Portugal,Georgia,João Maria Lobo Alves Palhinha Gonçalves,22,92.0,26.5,0.0193,Saved,0,Open Play,Right Foot
+3938644,Group Stage,Portugal,Georgia,João Neves,23,100.5,38.1,0.0442,Blocked,0,Open Play,Right Foot
+3938644,Group Stage,Portugal,Georgia,Francisco Fernandes Conceição,27,109.5,51.5,0.0525,Off T,0,Open Play,Left Foot
+3938644,Group Stage,Portugal,Georgia,João Félix Sequeira,29,97.4,50.7,0.036,Off T,0,Open Play,Left Foot
+3938644,Group Stage,Georgia,Portugal,Khvicha Kvaratskhelia,32,111.1,57.2,0.0138,Off T,0,Open Play,Right Foot
+3938644,Group Stage,Portugal,Georgia,Cristiano Ronaldo dos Santos Aveiro,34,112.6,28.6,0.0587,Blocked,0,Open Play,Left Foot
+3938644,Group Stage,Portugal,Georgia,João Maria Lobo Alves Palhinha Gonçalves,42,95.6,42.0,0.0357,Off T,0,Open Play,Right Foot
+3938644,Group Stage,Portugal,Georgia,João Félix Sequeira,45,96.9,45.9,0.0426,Saved,0,Open Play,Left Foot
+3938644,Group Stage,Portugal,Georgia,Francisco Fernandes Conceição,45,105.2,50.7,0.0461,Blocked,0,Open Play,Left Foot
+3938644,Group Stage,Portugal,Georgia,Cristiano Ronaldo dos Santos Aveiro,46,113.7,42.7,0.1897,Blocked,0,Open Play,Left Foot
+3938644,Group Stage,Portugal,Georgia,Danilo Luís Hélio Pereira,46,116.6,36.2,0.2295,Off T,0,Open Play,Left Foot
+3938644,Group Stage,Georgia,Portugal,Khvicha Kvaratskhelia,49,106.4,42.1,0.2445,Saved,0,Open Play,Right Foot
+3938644,Group Stage,Georgia,Portugal,Georges Mikautadze,56,108.1,40.1,0.7835,Goal,1,Penalty,Right Foot
+3938644,Group Stage,Portugal,Georgia,Francisco Fernandes Conceição,65,102.3,45.9,0.0395,Off T,0,Open Play,Left Foot
+3938644,Group Stage,Georgia,Portugal,Giorgi Chakvetadze,71,103.4,53.3,0.0695,Off T,0,Open Play,Right Foot
+3938644,Group Stage,Portugal,Georgia,Nélson Cabral Semedo,80,92.9,41.1,0.0202,Blocked,0,Open Play,Right Foot
+3938644,Group Stage,Portugal,Georgia,Matheus Luiz Nunes,81,112.4,39.4,0.1941,Wayward,0,Open Play,Head
+3938644,Group Stage,Georgia,Portugal,Zuriko Davitashvili,84,113.5,27.4,0.0891,Off T,0,Open Play,Left Foot
+3938644,Group Stage,Portugal,Georgia,Nélson Cabral Semedo,90,115.8,45.8,0.2142,Saved,0,Open Play,Right Foot
+3938644,Group Stage,Portugal,Georgia,João Félix Sequeira,91,100.1,51.9,0.0193,Blocked,0,Open Play,Left Foot
+3938644,Group Stage,Portugal,Georgia,Diogo José Teixeira da Silva,92,113.5,37.5,0.7039,Off T,0,Open Play,Left Foot
+3938644,Group Stage,Portugal,Georgia,José Diogo Dalot Teixeira,93,93.5,52.2,0.0231,Saved,0,Open Play,Right Foot
+3938644,Group Stage,Portugal,Georgia,Gonçalo Matias Ramos,93,116.2,47.1,0.1022,Blocked,0,Open Play,Left Foot
+3940983,Round of 16,Germany,Denmark,Joshua Kimmich,6,91.2,49.7,0.0245,Saved,0,Open Play,Right Foot
+3940983,Round of 16,Germany,Denmark,Nico Schlotterbeck,6,110.3,32.0,0.0297,Saved,0,Open Play,Head
+3940983,Round of 16,Germany,Denmark,Kai Havertz,9,107.1,28.1,0.0737,Saved,0,Open Play,Left Foot
+3940983,Round of 16,Germany,Denmark,Robert Andrich,10,110.5,37.7,0.0547,Saved,0,Open Play,Head
+3940983,Round of 16,Germany,Denmark,Jamal Musiala,12,90.2,42.2,0.0245,Off T,0,Open Play,Right Foot
+3940983,Round of 16,Germany,Denmark,Toni Kroos,15,92.3,36.2,0.0561,Blocked,0,Free Kick,Right Foot
+3940983,Round of 16,Denmark,Germany,Christian Dannemann Eriksen,20,101.0,40.2,0.1223,Blocked,0,Open Play,Right Foot
+3940983,Round of 16,Denmark,Germany,Joakim Mæhle,23,112.5,27.4,0.0925,Off T,0,Open Play,Left Foot
+3940983,Round of 16,Denmark,Germany,Christian Dannemann Eriksen,30,100.8,38.0,0.0899,Blocked,0,Free Kick,Right Foot
+3940983,Round of 16,Denmark,Germany,Rasmus Winther Højlund,32,105.9,20.0,0.0087,Blocked,0,Open Play,Left Foot
+3940983,Round of 16,Germany,Denmark,Kai Havertz,41,111.5,39.7,0.1361,Saved,0,Open Play,Head
+3940983,Round of 16,Germany,Denmark,Nico Schlotterbeck,41,112.3,31.4,0.0399,Off T,0,Open Play,Head
+3940983,Round of 16,Denmark,Germany,Rasmus Winther Højlund,46,115.0,51.7,0.0614,Off T,0,Open Play,Right Foot
+3940983,Round of 16,Denmark,Germany,Rasmus Winther Højlund,49,108.2,37.4,0.4812,Saved,0,Open Play,Left Foot
+3940983,Round of 16,Germany,Denmark,Kai Havertz,52,108.0,40.0,0.7835,Goal,1,Penalty,Left Foot
+3940983,Round of 16,Germany,Denmark,Kai Havertz,58,108.9,31.0,0.4252,Off T,0,Open Play,Left Foot
+3940983,Round of 16,Denmark,Germany,Rasmus Winther Højlund,65,105.6,30.8,0.0594,Saved,0,Open Play,Left Foot
+3940983,Round of 16,Germany,Denmark,Jamal Musiala,67,110.2,28.9,0.2564,Goal,1,Open Play,Right Foot
+3940983,Round of 16,Denmark,Germany,Joachim Andersen,76,114.2,33.2,0.0607,Wayward,0,Open Play,Head
+3940983,Round of 16,Germany,Denmark,Joshua Kimmich,78,48.1,47.9,0.0027,Wayward,0,Open Play,Right Foot
+3940983,Round of 16,Denmark,Germany,Pierre-Emile Højbjerg,82,94.3,43.0,0.0358,Blocked,0,Open Play,Right Foot
+3940983,Round of 16,Germany,Denmark,Benjamin Henrichs,88,97.7,22.4,0.0186,Off T,0,Open Play,Right Foot
+3940983,Round of 16,Germany,Denmark,Florian Wirtz,89,101.4,45.0,0.1114,Saved,0,Open Play,Left Foot
+3940983,Round of 16,Denmark,Germany,Jannik Vestergaard,93,106.8,42.2,0.0616,Blocked,0,Open Play,Right Foot
+3940983,Round of 16,Germany,Denmark,Kai Havertz,94,106.6,29.6,0.1896,Saved,0,Open Play,Left Foot
+3940878,Round of 16,Switzerland,Italy,Dan Ndoye,11,108.4,51.9,0.0496,Wayward,0,Open Play,Right Foot
+3940878,Round of 16,Switzerland,Italy,Breel-Donald Embolo,23,106.4,30.3,0.1998,Saved,0,Open Play,Right Foot
+3940878,Round of 16,Switzerland,Italy,Dan Ndoye,23,108.0,50.3,0.0379,Blocked,0,Open Play,Left Foot
+3940878,Round of 16,Switzerland,Italy,Remo Freuler,23,94.4,42.5,0.0299,Blocked,0,Open Play,Right Foot
+3940878,Round of 16,Switzerland,Italy,Breel-Donald Embolo,25,93.7,36.4,0.028,Blocked,0,Open Play,Left Foot
+3940878,Round of 16,Italy,Switzerland,Federico Chiesa,25,109.2,27.3,0.0601,Blocked,0,Open Play,Right Foot
+3940878,Round of 16,Switzerland,Italy,Dan Ndoye,27,108.7,53.7,0.0351,Blocked,0,Open Play,Right Foot
+3940878,Round of 16,Switzerland,Italy,Fabian Lukas Schär,30,108.1,55.0,0.0178,Blocked,0,Open Play,Left Foot
+3940878,Round of 16,Switzerland,Italy,Ricardo Iván Rodríguez Araya,31,91.6,25.6,0.0144,Off T,0,Open Play,Left Foot
+3940878,Round of 16,Switzerland,Italy,Remo Freuler,36,111.1,34.4,0.1441,Goal,1,Open Play,Left Foot
+3940878,Round of 16,Switzerland,Italy,Fabian Rieder,45,100.0,66.4,0.0081,Saved to Post,0,Free Kick,Left Foot
+3940878,Round of 16,Switzerland,Italy,Ruben Vargas,45,103.5,25.6,0.0448,Goal,1,Open Play,Right Foot
+3940878,Round of 16,Italy,Switzerland,Federico Chiesa,51,116.2,51.2,0.0465,Wayward,0,Open Play,Right Foot
+3940878,Round of 16,Italy,Switzerland,Federico Chiesa,52,95.3,39.3,0.0267,Blocked,0,Open Play,Left Foot
+3940878,Round of 16,Switzerland,Italy,Ricardo Iván Rodríguez Araya,54,91.6,28.4,0.0233,Blocked,0,Open Play,Left Foot
+3940878,Round of 16,Italy,Switzerland,Bryan Cristante,55,90.0,45.3,0.0219,Blocked,0,Open Play,Right Foot
+3940878,Round of 16,Switzerland,Italy,Dan Ndoye,58,94.9,52.6,0.0266,Off T,0,Open Play,Left Foot
+3940878,Round of 16,Switzerland,Italy,Granit Xhaka,64,100.3,30.0,0.0407,Blocked,0,Open Play,Left Foot
+3940878,Round of 16,Italy,Switzerland,Mateo Retegui,72,99.1,44.7,0.0671,Saved,0,Open Play,Left Foot
+3940878,Round of 16,Italy,Switzerland,Mattia Zaccagni,73,109.4,41.6,0.1115,Wayward,0,Open Play,Head
+3940878,Round of 16,Italy,Switzerland,Gianluca Scamacca,73,116.9,34.1,0.3101,Post,0,Open Play,Right Foot
+3940878,Round of 16,Italy,Switzerland,Nicolò Fagioli,73,91.4,28.3,0.0185,Off T,0,Open Play,Right Foot
+3940878,Round of 16,Italy,Switzerland,Gianluca Scamacca,75,97.5,43.0,0.0329,Off T,0,Open Play,Right Foot
+3940878,Round of 16,Switzerland,Italy,Remo Freuler,78,98.7,40.3,0.0374,Off T,0,Open Play,Left Foot
+3940878,Round of 16,Switzerland,Italy,Steven Zuber,82,114.8,26.8,0.0447,Wayward,0,Open Play,Left Foot
+3940878,Round of 16,Italy,Switzerland,Lorenzo Pellegrini,84,93.0,29.9,0.0216,Off T,0,Open Play,Right Foot
+3940878,Round of 16,Italy,Switzerland,Federico Chiesa,90,103.4,63.1,0.0087,Wayward,0,Open Play,Left Foot
+3941018,Round of 16,Spain,Georgia,Fabián Ruiz Peña,1,95.1,40.3,0.034,Blocked,0,Open Play,Left Foot
+3941018,Round of 16,Spain,Georgia,Pedro González López,4,109.5,47.0,0.2088,Saved,0,Open Play,Left Foot
+3941018,Round of 16,Spain,Georgia,Fabián Ruiz Peña,5,110.9,32.9,0.0355,Blocked,0,Open Play,Head
+3941018,Round of 16,Spain,Georgia,Daniel Carvajal Ramos,9,113.4,30.1,0.0477,Saved,0,Open Play,Head
+3941018,Round of 16,Spain,Georgia,Nicholas Williams Arthuer,10,100.2,33.1,0.0463,Blocked,0,Open Play,Right Foot
+3941018,Round of 16,Spain,Georgia,Fabián Ruiz Peña,12,103.6,48.1,0.0682,Blocked,0,Open Play,Left Foot
+3941018,Round of 16,Spain,Georgia,Nicholas Williams Arthuer,12,109.8,23.8,0.0286,Blocked,0,Open Play,Right Foot
+3941018,Round of 16,Spain,Georgia,Aymeric Laporte,15,111.8,34.6,0.051,Blocked,0,Open Play,Head
+3941018,Round of 16,Spain,Georgia,Fabián Ruiz Peña,21,103.7,54.8,0.0306,Saved,0,Open Play,Left Foot
+3941018,Round of 16,Spain,Georgia,Rodrigo Hernández Cascante,25,87.6,30.5,0.0168,Blocked,0,Open Play,Right Foot
+3941018,Round of 16,Spain,Georgia,Pedro González López,26,102.1,31.3,0.0623,Off T,0,Open Play,Left Foot
+3941018,Round of 16,Spain,Georgia,Aymeric Laporte,28,86.4,29.1,0.0068,Off T,0,Open Play,Left Foot
+3941018,Round of 16,Georgia,Spain,Giorgi Kochorashvili,29,99.6,43.4,0.0507,Blocked,0,Open Play,Right Foot
+3941018,Round of 16,Spain,Georgia,Lamine Yamal Nasraoui Ebana,30,94.3,48.5,0.031,Blocked,0,Open Play,Left Foot
+3941018,Round of 16,Spain,Georgia,Marc Cucurella Saseta,34,96.3,28.4,0.0156,Saved,0,Open Play,Left Foot
+3941018,Round of 16,Spain,Georgia,Nicholas Williams Arthuer,37,113.4,27.4,0.0421,Saved,0,Open Play,Right Foot
+3941018,Round of 16,Spain,Georgia,Rodrigo Hernández Cascante,38,102.1,36.2,0.0665,Goal,1,Open Play,Left Foot
+3941018,Round of 16,Georgia,Spain,Giorgi Kochorashvili,40,53.8,38.5,0.0041,Off T,0,Open Play,Right Foot
+3941018,Round of 16,Spain,Georgia,Lamine Yamal Nasraoui Ebana,46,92.7,49.6,0.0157,Blocked,0,Open Play,Left Foot
+3941018,Round of 16,Spain,Georgia,Fabián Ruiz Peña,45,96.2,46.3,0.0597,Off T,0,Open Play,Right Foot
+3941018,Round of 16,Georgia,Spain,Khvicha Kvaratskhelia,47,57.4,28.1,0.0056,Off T,0,Open Play,Left Foot
+3941018,Round of 16,Spain,Georgia,Lamine Yamal Nasraoui Ebana,50,99.6,43.0,0.0836,Saved,0,Free Kick,Left Foot
+3941018,Round of 16,Spain,Georgia,Fabián Ruiz Peña,50,115.6,35.6,0.2991,Goal,1,Open Play,Head
+3941018,Round of 16,Spain,Georgia,Lamine Yamal Nasraoui Ebana,52,101.0,47.7,0.0762,Off T,0,Open Play,Left Foot
+3941018,Round of 16,Spain,Georgia,Álvaro Borja Morata Martín,54,94.8,37.3,0.0462,Off T,0,Open Play,Right Foot
+3941018,Round of 16,Spain,Georgia,Daniel Olmo Carvajal,59,95.6,45.7,0.0309,Blocked,0,Open Play,Right Foot
+3941018,Round of 16,Spain,Georgia,Daniel Olmo Carvajal,60,101.6,49.4,0.0715,Wayward,0,Open Play,Right Foot
+3941018,Round of 16,Spain,Georgia,Lamine Yamal Nasraoui Ebana,62,104.9,41.5,0.0757,Off T,0,Open Play,Left Foot
+3941018,Round of 16,Georgia,Spain,Heorhii Tsitaishvili,67,108.4,23.4,0.0527,Off T,0,Open Play,Left Foot
+3941018,Round of 16,Spain,Georgia,Fabián Ruiz Peña,69,93.3,30.5,0.0245,Off T,0,Open Play,Left Foot
+3941018,Round of 16,Spain,Georgia,Nicholas Williams Arthuer,74,111.2,29.5,0.215,Goal,1,Open Play,Right Foot
+3941018,Round of 16,Spain,Georgia,Daniel Olmo Carvajal,76,108.3,38.6,0.2668,Saved,0,Open Play,Right Foot
+3941018,Round of 16,Spain,Georgia,Lamine Yamal Nasraoui Ebana,79,114.8,47.3,0.286,Saved,0,Open Play,Left Foot
+3941018,Round of 16,Spain,Georgia,Lamine Yamal Nasraoui Ebana,81,107.6,49.0,0.0817,Off T,0,Open Play,Left Foot
+3941018,Round of 16,Spain,Georgia,Daniel Olmo Carvajal,82,102.3,38.5,0.1281,Goal,1,Open Play,Left Foot
+3941018,Round of 16,Spain,Georgia,Nicholas Williams Arthuer,89,104.8,29.5,0.0644,Blocked,0,Open Play,Right Foot
+3941018,Round of 16,Spain,Georgia,Daniel Olmo Carvajal,89,99.5,41.3,0.053,Saved,0,Open Play,Right Foot
+3941018,Round of 16,Spain,Georgia,Daniel Olmo Carvajal,91,114.6,50.7,0.0612,Blocked,0,Open Play,Right Foot
+3941018,Round of 16,Spain,Georgia,Rodrigo Hernández Cascante,92,106.0,40.5,0.0334,Off T,0,Open Play,Head
+3941017,Round of 16,Slovakia,England,David Strelec,3,107.3,35.8,0.0924,Wayward,0,Open Play,Right Foot
+3941017,Round of 16,Slovakia,England,Lukáš Haraslín,7,101.0,34.2,0.0534,Blocked,0,Open Play,Right Foot
+3941017,Round of 16,England,Slovakia,Kieran Trippier,8,102.8,29.9,0.089,Off T,0,Open Play,Right Foot
+3941017,Round of 16,Slovakia,England,Lukáš Haraslín,11,107.1,32.1,0.0794,Blocked,0,Open Play,Right Foot
+3941017,Round of 16,England,Slovakia,Harry Kane,22,111.7,46.4,0.0517,Blocked,0,Open Play,Head
+3941017,Round of 16,England,Slovakia,Kobbie Mainoo,23,97.3,46.8,0.0304,Off T,0,Open Play,Right Foot
+3941017,Round of 16,Slovakia,England,Ivan Schranz,24,113.3,44.7,0.528,Goal,1,Open Play,Right Foot
+3941017,Round of 16,England,Slovakia,Declan Rice,38,111.3,46.9,0.0407,Blocked,0,Open Play,Head
+3941017,Round of 16,England,Slovakia,Kobbie Mainoo,47,97.4,34.3,0.0435,Blocked,0,Open Play,Right Foot
+3941017,Round of 16,England,Slovakia,Bukayo Saka,47,92.1,46.0,0.026,Blocked,0,Open Play,Left Foot
+3941017,Round of 16,England,Slovakia,Harry Kane,51,104.9,32.5,0.1086,Blocked,0,Open Play,Right Foot
+3941017,Round of 16,Slovakia,England,David Strelec,53,62.7,30.6,0.0285,Off T,0,Open Play,Left Foot
+3941017,Round of 16,England,Slovakia,Jude Bellingham,58,111.7,40.2,0.0813,Blocked,0,Open Play,Head
+3941017,Round of 16,England,Slovakia,Phil Foden,60,99.1,25.5,0.0542,Blocked,0,Free Kick,Left Foot
+3941017,Round of 16,England,Slovakia,Harry Kane,77,111.7,39.5,0.1614,Off T,0,Open Play,Head
+3941017,Round of 16,England,Slovakia,Declan Rice,80,93.5,36.7,0.0261,Post,0,Open Play,Right Foot
+3941017,Round of 16,England,Slovakia,Harry Kane,80,107.4,40.0,0.1218,Off T,0,Open Play,Right Foot
+3941017,Round of 16,Slovakia,England,Stanislav Lobotka,86,89.4,45.1,0.0219,Saved,0,Open Play,Right Foot
+3941017,Round of 16,England,Slovakia,Jude Bellingham,94,110.1,40.9,0.1032,Goal,1,Open Play,Right Foot
+3941017,Round of 16,England,Slovakia,Eberechi Eze,90,96.5,37.6,0.0281,Wayward,0,Open Play,Right Foot
+3941017,Round of 16,England,Slovakia,Harry Kane,90,116.2,42.1,0.4972,Goal,1,Open Play,Head
+3941017,Round of 16,Slovakia,England,Peter Pekarík,104,114.9,42.3,0.5064,Off T,0,Open Play,Other
+3941017,Round of 16,Slovakia,England,Matúš Bero,106,94.0,56.4,0.0142,Wayward,0,Open Play,Right Foot
+3941017,Round of 16,Slovakia,England,Ľubomír Tupta,110,88.8,47.2,0.0286,Off T,0,Free Kick,Right Foot
+3941017,Round of 16,Slovakia,England,Róbert Boženík,116,115.1,57.3,0.0084,Off T,0,Open Play,Right Foot
+3941017,Round of 16,Slovakia,England,Dávid Hancko,118,112.1,35.7,0.0679,Off T,0,Open Play,Head
+3941017,Round of 16,Slovakia,England,Milan Škriniar,119,111.9,36.3,0.0729,Blocked,0,Open Play,Head
+3941017,Round of 16,England,Slovakia,Ivan Toney,120,99.9,42.1,0.1234,Off T,0,Open Play,Right Foot
+3941017,Round of 16,Slovakia,England,Dávid Hancko,120,107.2,40.3,0.0458,Saved,0,Open Play,Head
+3941020,Round of 16,Portugal,Slovenia,Rúben Santos Gato Alves Dias,4,114.4,52.5,0.0489,Off T,0,Open Play,Left Foot
+3941020,Round of 16,Portugal,Slovenia,Cristiano Ronaldo dos Santos Aveiro,30,111.7,41.6,0.071,Saved,0,Open Play,Head
+3941020,Round of 16,Portugal,Slovenia,Cristiano Ronaldo dos Santos Aveiro,33,96.9,35.6,0.0835,Off T,0,Free Kick,Right Foot
+3941020,Round of 16,Portugal,Slovenia,Cristiano Ronaldo dos Santos Aveiro,38,105.0,10.5,0.0067,Off T,0,Free Kick,Right Foot
+3941020,Round of 16,Slovenia,Portugal,Benjamin Šeško,43,89.8,31.3,0.0321,Saved,0,Open Play,Right Foot
+3941020,Round of 16,Slovenia,Portugal,Jaka Bijol,44,116.0,29.4,0.036,Off T,0,Open Play,Head
+3941020,Round of 16,Portugal,Slovenia,João Maria Lobo Alves Palhinha Gonçalves,47,98.7,40.3,0.0676,Off T,0,Open Play,Right Foot
+3941020,Round of 16,Portugal,Slovenia,Bernardo Mota Veiga de Carvalho e Silva,46,105.5,48.4,0.0615,Off T,0,Open Play,Left Foot
+3941020,Round of 16,Slovenia,Portugal,Timi Elšnik,48,111.7,25.4,0.0308,Saved Off Target,0,Open Play,Left Foot
+3941020,Round of 16,Portugal,Slovenia,Vitor Machado Ferreira,51,91.9,22.4,0.0064,Blocked,0,Open Play,Right Foot
+3941020,Round of 16,Portugal,Slovenia,Cristiano Ronaldo dos Santos Aveiro,54,95.8,44.3,0.0759,Saved,0,Free Kick,Right Foot
+3941020,Round of 16,Portugal,Slovenia,Vitor Machado Ferreira,56,106.5,42.7,0.0892,Blocked,0,Open Play,Right Foot
+3941020,Round of 16,Portugal,Slovenia,Vitor Machado Ferreira,57,100.8,38.4,0.0521,Blocked,0,Open Play,Left Foot
+3941020,Round of 16,Portugal,Slovenia,João Maria Lobo Alves Palhinha Gonçalves,58,107.5,45.5,0.0374,Wayward,0,Open Play,Head
+3941020,Round of 16,Slovenia,Portugal,Adam Gnezda Čerin,58,99.4,27.1,0.021,Off T,0,Open Play,Right Foot
+3941020,Round of 16,Slovenia,Portugal,Benjamin Šeško,60,104.4,30.4,0.2514,Off T,0,Open Play,Left Foot
+3941020,Round of 16,Portugal,Slovenia,Cristiano Ronaldo dos Santos Aveiro,71,88.9,37.9,0.0294,Off T,0,Free Kick,Right Foot
+3941020,Round of 16,Portugal,Slovenia,Cristiano Ronaldo dos Santos Aveiro,88,108.9,27.4,0.0934,Saved,0,Open Play,Left Foot
+3941020,Round of 16,Portugal,Slovenia,Bruno Miguel Borges Fernandes,91,86.6,24.3,0.0052,Blocked,0,Open Play,Right Foot
+3941020,Round of 16,Slovenia,Portugal,Benjamin Verbič,94,96.9,33.5,0.045,Blocked,0,Open Play,Right Foot
+3941020,Round of 16,Slovenia,Portugal,Jon Gorenc Stankovič,95,101.4,50.6,0.0391,Off T,0,Open Play,Left Foot
+3941020,Round of 16,Portugal,Slovenia,Diogo José Teixeira da Silva,99,112.9,46.6,0.0745,Saved,0,Open Play,Head
+3941020,Round of 16,Portugal,Slovenia,Cristiano Ronaldo dos Santos Aveiro,104,108.1,40.1,0.7835,Saved to Post,0,Penalty,Right Foot
+3941020,Round of 16,Portugal,Slovenia,João Maria Lobo Alves Palhinha Gonçalves,107,107.5,47.3,0.0504,Saved,0,Open Play,Head
+3941020,Round of 16,Portugal,Slovenia,Kléper Laveran Lima Ferreira,107,111.3,45.2,0.0506,Blocked,0,Open Play,Head
+3941020,Round of 16,Slovenia,Portugal,Josip Iličić,111,95.3,28.0,0.0453,Blocked,0,Free Kick,Left Foot
+3941020,Round of 16,Slovenia,Portugal,Benjamin Šeško,114,98.6,32.8,0.1759,Saved,0,Open Play,Right Foot
+3941020,Round of 16,Slovenia,Portugal,Žan Celar,114,93.7,32.8,0.039,Wayward,0,Open Play,Right Foot
+3941020,Round of 16,Portugal,Slovenia,Cristiano Ronaldo dos Santos Aveiro,119,107.5,34.4,0.0226,Blocked,0,Open Play,Head
+3941020,Round of 16,Portugal,Slovenia,Rúben Diogo Da Silva Neves,119,86.6,41.9,0.0115,Off T,0,Open Play,Right Foot
+3941019,Round of 16,France,Belgium,Adrien Rabiot,1,105.3,39.5,0.0493,Off T,0,Open Play,Left Foot
+3941019,Round of 16,France,Belgium,Antoine Griezmann,9,95.5,36.4,0.027,Saved,0,Open Play,Left Foot
+3941019,Round of 16,France,Belgium,Kylian Mbappé Lottin,13,106.8,26.1,0.0671,Off T,0,Open Play,Right Foot
+3941019,Round of 16,France,Belgium,Marcus Thuram,17,113.0,50.1,0.0289,Off T,0,Open Play,Head
+3941019,Round of 16,France,Belgium,Adrien Rabiot,19,87.2,35.1,0.022,Off T,0,Open Play,Left Foot
+3941019,Round of 16,Belgium,France,Yannick Ferreira Carrasco,26,106.5,44.0,0.1059,Blocked,0,Open Play,Left Foot
+3941019,Round of 16,France,Belgium,Marcus Thuram,33,110.6,41.9,0.0944,Off T,0,Open Play,Head
+3941019,Round of 16,France,Belgium,Aurélien Djani Tchouaméni,38,89.2,47.9,0.0224,Off T,0,Open Play,Right Foot
+3941019,Round of 16,France,Belgium,Marcus Thuram,40,114.2,32.2,0.1625,Wayward,0,Open Play,Right Foot
+3941019,Round of 16,France,Belgium,Aurélien Djani Tchouaméni,45,103.3,32.5,0.0552,Off T,0,Open Play,Right Foot
+3941019,Round of 16,France,Belgium,Aurélien Djani Tchouaméni,48,93.9,33.9,0.0275,Saved,0,Open Play,Right Foot
+3941019,Round of 16,France,Belgium,Kylian Mbappé Lottin,49,111.5,24.5,0.0239,Blocked,0,Open Play,Right Foot
+3941019,Round of 16,France,Belgium,Marcus Thuram,49,113.4,37.7,0.1451,Off T,0,Open Play,Head
+3941019,Round of 16,France,Belgium,Kylian Mbappé Lottin,53,102.3,26.3,0.0372,Off T,0,Open Play,Right Foot
+3941019,Round of 16,France,Belgium,Kylian Mbappé Lottin,55,107.9,46.3,0.1881,Wayward,0,Open Play,Right Foot
+3941019,Round of 16,Belgium,France,Yannick Ferreira Carrasco,60,111.0,51.5,0.1307,Blocked,0,Open Play,Right Foot
+3941019,Round of 16,France,Belgium,Antoine Griezmann,64,97.3,43.1,0.0548,Off T,0,Open Play,Right Foot
+3941019,Round of 16,France,Belgium,Aurélien Djani Tchouaméni,68,94.6,47.3,0.0309,Off T,0,Open Play,Right Foot
+3941019,Round of 16,Belgium,France,Romelu Lukaku Menama,70,109.8,25.7,0.0381,Saved,0,Open Play,Left Foot
+3941019,Round of 16,France,Belgium,William Saliba,73,106.1,53.7,0.0678,Off T,0,Open Play,Left Foot
+3941019,Round of 16,France,Belgium,Kylian Mbappé Lottin,77,103.1,48.2,0.0947,Off T,0,Open Play,Right Foot
+3941019,Round of 16,Belgium,France,Kevin De Bruyne,82,100.8,31.1,0.0827,Saved,0,Open Play,Right Foot
+3941019,Round of 16,France,Belgium,Randal Kolo Muani,84,108.7,52.4,0.0631,Wayward,0,Open Play,Right Foot
+3941019,Round of 16,Belgium,France,Arthur Theate,89,88.7,26.5,0.0057,Wayward,0,Open Play,Left Foot
+3941021,Round of 16,Netherlands,Romania,Xavi Simons,5,95.3,18.1,0.0083,Saved,0,Open Play,Right Foot
+3941021,Round of 16,Romania,Netherlands,Dennis Man,13,99.0,48.2,0.0392,Off T,0,Open Play,Left Foot
+3941021,Round of 16,Netherlands,Romania,Stefan de Vrij,16,111.8,40.0,0.0797,Blocked,0,Open Play,Head
+3941021,Round of 16,Netherlands,Romania,Nathan Aké,17,108.7,35.3,0.0332,Wayward,0,Open Play,Head
+3941021,Round of 16,Netherlands,Romania,Cody Mathès Gakpo,19,107.5,24.9,0.047,Goal,1,Open Play,Right Foot
+3941021,Round of 16,Romania,Netherlands,Ianis Hagi,20,96.2,17.6,0.0072,Off T,0,Open Play,Right Foot
+3941021,Round of 16,Romania,Netherlands,Dennis Man,23,107.9,38.5,0.1089,Off T,0,Open Play,Left Foot
+3941021,Round of 16,Netherlands,Romania,Tijjani Reijnders,25,101.2,41.1,0.0529,Blocked,0,Open Play,Right Foot
+3941021,Round of 16,Netherlands,Romania,Stefan de Vrij,25,112.9,46.5,0.0657,Off T,0,Open Play,Head
+3941021,Round of 16,Netherlands,Romania,Memphis Depay,42,119.2,79.2,0.0002,Off T,0,Corner,Right Foot
+3941021,Round of 16,Netherlands,Romania,Xavi Simons,43,110.1,39.2,0.1424,Off T,0,Open Play,Right Foot
+3941021,Round of 16,Romania,Netherlands,Denis Mihai Drăguş,46,99.5,38.3,0.0568,Saved,0,Open Play,Right Foot
+3941021,Round of 16,Netherlands,Romania,Tijjani Reijnders,49,101.2,41.0,0.0958,Blocked,0,Open Play,Right Foot
+3941021,Round of 16,Netherlands,Romania,Donyell Malen,49,113.0,42.2,0.1458,Off T,0,Open Play,Head
+3941021,Round of 16,Netherlands,Romania,Donyell Malen,53,110.6,49.7,0.223,Wayward,0,Open Play,Right Foot
+3941021,Round of 16,Netherlands,Romania,Memphis Depay,53,114.0,38.3,0.308,Blocked,0,Open Play,Right Foot
+3941021,Round of 16,Netherlands,Romania,Tijjani Reijnders,56,96.4,38.6,0.0363,Off T,0,Open Play,Right Foot
+3941021,Round of 16,Netherlands,Romania,Virgil van Dijk,57,109.6,39.8,0.0659,Post,0,Open Play,Head
+3941021,Round of 16,Netherlands,Romania,Cody Mathès Gakpo,58,112.5,27.9,0.1117,Saved,0,Open Play,Right Foot
+3941021,Round of 16,Romania,Netherlands,Denis Mihai Drăguş,59,104.2,47.5,0.0557,Blocked,0,Open Play,Right Foot
+3941021,Round of 16,Netherlands,Romania,Cody Mathès Gakpo,61,97.1,47.3,0.0472,Saved,0,Open Play,Right Foot
+3941021,Round of 16,Netherlands,Romania,Nathan Aké,62,111.4,47.2,0.0737,Wayward,0,Open Play,Head
+3941021,Round of 16,Netherlands,Romania,Memphis Depay,67,94.3,33.1,0.0616,Off T,0,Free Kick,Right Foot
+3941021,Round of 16,Netherlands,Romania,Joey Veerman,72,114.2,28.3,0.1171,Off T,0,Open Play,Right Foot
+3941021,Round of 16,Netherlands,Romania,Memphis Depay,78,108.3,25.7,0.0285,Blocked,0,Open Play,Right Foot
+3941021,Round of 16,Netherlands,Romania,Cody Mathès Gakpo,79,106.1,51.7,0.0623,Blocked,0,Open Play,Right Foot
+3941021,Round of 16,Netherlands,Romania,Donyell Malen,82,115.6,36.0,0.3983,Goal,1,Open Play,Right Foot
+3941021,Round of 16,Netherlands,Romania,Memphis Depay,84,112.2,27.4,0.0703,Off T,0,Open Play,Right Foot
+3941021,Round of 16,Netherlands,Romania,Donyell Malen,92,104.2,33.2,0.3514,Goal,1,Open Play,Right Foot
+3941022,Round of 16,Turkey,Austria,Merih Demiral,0,115.8,39.0,0.4581,Goal,1,Open Play,Left Foot
+3941022,Round of 16,Austria,Turkey,Christoph Baumgartner,2,101.4,51.9,0.0433,Off T,0,Open Play,Right Foot
+3941022,Round of 16,Austria,Turkey,Philipp Lienhart,6,115.8,47.4,0.1209,Off T,0,Open Play,Head
+3941022,Round of 16,Austria,Turkey,Marcel Sabitzer,11,89.9,35.2,0.0428,Blocked,0,Free Kick,Right Foot
+3941022,Round of 16,Austria,Turkey,Philipp Lienhart,11,103.8,36.1,0.0603,Blocked,0,Open Play,Right Foot
+3941022,Round of 16,Turkey,Austria,Arda Güler,18,59.0,42.3,0.0071,Off T,0,Open Play,Left Foot
+3941022,Round of 16,Turkey,Austria,Merih Demiral,24,115.8,45.8,0.104,Off T,0,Open Play,Other
+3941022,Round of 16,Austria,Turkey,Marcel Sabitzer,32,93.9,22.4,0.0082,Blocked,0,Open Play,Right Foot
+3941022,Round of 16,Austria,Turkey,Christoph Baumgartner,45,111.4,45.6,0.1687,Off T,0,Open Play,Left Foot
+3941022,Round of 16,Austria,Turkey,Michael Gregoritsch,49,107.7,35.0,0.0427,Off T,0,Open Play,Head
+3941022,Round of 16,Austria,Turkey,Marko Arnautović,50,110.1,44.6,0.2986,Saved,0,Open Play,Right Foot
+3941022,Round of 16,Austria,Turkey,Konrad Laimer,52,103.9,38.4,0.1059,Off T,0,Open Play,Left Foot
+3941022,Round of 16,Austria,Turkey,Stefan Posch,53,108.2,50.3,0.0653,Blocked,0,Open Play,Right Foot
+3941022,Round of 16,Turkey,Austria,Ferdi Erenay Kadıoğlu,56,109.5,25.2,0.0507,Blocked,0,Open Play,Right Foot
+3941022,Round of 16,Turkey,Austria,Merih Demiral,58,116.9,44.8,0.1548,Goal,1,Open Play,Head
+3941022,Round of 16,Austria,Turkey,Stefan Posch,65,113.1,41.9,0.1162,Wayward,0,Open Play,Head
+3941022,Round of 16,Austria,Turkey,Michael Gregoritsch,65,116.2,36.5,0.5777,Goal,1,Open Play,Left Foot
+3941022,Round of 16,Austria,Turkey,Michael Gregoritsch,68,109.4,39.1,0.0986,Saved,0,Open Play,Head
+3941022,Round of 16,Austria,Turkey,Florian Grillitsch,73,96.4,47.7,0.0241,Blocked,0,Open Play,Right Foot
+3941022,Round of 16,Austria,Turkey,Florian Grillitsch,74,94.4,51.1,0.0247,Saved,0,Open Play,Right Foot
+3941022,Round of 16,Austria,Turkey,Marko Arnautović,74,96.7,38.5,0.0304,Blocked,0,Open Play,Right Foot
+3941022,Round of 16,Austria,Turkey,Marcel Sabitzer,83,99.8,52.9,0.0297,Wayward,0,Open Play,Left Foot
+3941022,Round of 16,Austria,Turkey,Christoph Baumgartner,83,114.1,37.5,0.2429,Off T,0,Open Play,Head
+3941022,Round of 16,Austria,Turkey,Christoph Baumgartner,85,110.5,43.6,0.0522,Off T,0,Open Play,Head
+3941022,Round of 16,Austria,Turkey,Michael Gregoritsch,90,112.6,42.5,0.1014,Blocked,0,Open Play,Head
+3941022,Round of 16,Turkey,Austria,Barış Alper Yılmaz,93,102.8,35.9,0.1079,Saved,0,Open Play,Right Foot
+3941022,Round of 16,Austria,Turkey,Christoph Baumgartner,94,113.9,42.7,0.2324,Saved,0,Open Play,Head
+3942349,Quarter-finals,Portugal,France,Bruno Miguel Borges Fernandes,15,92.5,32.9,0.0274,Blocked,0,Open Play,Right Foot
+3942349,Quarter-finals,France,Portugal,Theo Bernard François Hernández,19,91.4,26.7,0.0177,Saved,0,Open Play,Left Foot
+3942349,Quarter-finals,France,Portugal,Antoine Griezmann,27,98.0,59.1,0.01,Blocked,0,Open Play,Left Foot
+3942349,Quarter-finals,France,Portugal,Eduardo Camavinga,27,94.9,25.6,0.0212,Off T,0,Open Play,Left Foot
+3942349,Quarter-finals,Portugal,France,Bruno Miguel Borges Fernandes,41,93.9,26.0,0.0395,Off T,0,Free Kick,Right Foot
+3942349,Quarter-finals,France,Portugal,Kylian Mbappé Lottin,49,99.5,28.3,0.0336,Saved,0,Open Play,Right Foot
+3942349,Quarter-finals,France,Portugal,Aurélien Djani Tchouaméni,50,89.5,30.2,0.0193,Blocked,0,Open Play,Right Foot
+3942349,Quarter-finals,Portugal,France,Bernardo Mota Veiga de Carvalho e Silva,53,111.7,47.2,0.0477,Blocked,0,Open Play,Head
+3942349,Quarter-finals,Portugal,France,Bruno Miguel Borges Fernandes,60,109.3,52.1,0.1345,Saved,0,Open Play,Right Foot
+3942349,Quarter-finals,Portugal,France,João Pedro Cavaco Cancelo,60,105.7,52.8,0.0526,Off T,0,Open Play,Left Foot
+3942349,Quarter-finals,France,Portugal,Aurélien Djani Tchouaméni,62,91.6,23.0,0.0062,Wayward,0,Open Play,Right Foot
+3942349,Quarter-finals,Portugal,France,Vitor Machado Ferreira,62,110.4,32.9,0.2649,Saved,0,Open Play,Right Foot
+3942349,Quarter-finals,Portugal,France,Cristiano Ronaldo dos Santos Aveiro,62,118.7,45.1,0.1352,Saved,0,Open Play,Right Foot
+3942349,Quarter-finals,France,Portugal,Randal Kolo Muani,65,107.2,49.3,0.1166,Blocked,0,Open Play,Right Foot
+3942349,Quarter-finals,France,Portugal,Kylian Mbappé Lottin,66,108.1,54.2,0.0222,Blocked,0,Open Play,Right Foot
+3942349,Quarter-finals,France,Portugal,Ousmane Dembélé,69,113.7,56.4,0.0107,Blocked,0,Open Play,Right Foot
+3942349,Quarter-finals,France,Portugal,Eduardo Camavinga,69,114.8,50.0,0.2368,Post,0,Open Play,Right Foot
+3942349,Quarter-finals,France,Portugal,Ousmane Dembélé,73,99.1,57.0,0.025,Post,0,Open Play,Left Foot
+3942349,Quarter-finals,Portugal,France,Cristiano Ronaldo dos Santos Aveiro,84,99.5,61.1,0.0107,Blocked,0,Free Kick,Right Foot
+3942349,Quarter-finals,Portugal,France,Vitor Machado Ferreira,85,88.0,22.7,0.0066,Blocked,0,Open Play,Right Foot
+3942349,Quarter-finals,France,Portugal,N'Golo Kanté,87,93.9,33.2,0.0239,Saved,0,Open Play,Right Foot
+3942349,Quarter-finals,France,Portugal,N'Golo Kanté,88,96.4,33.1,0.0524,Saved,0,Open Play,Right Foot
+3942349,Quarter-finals,Portugal,France,Bernardo Mota Veiga de Carvalho e Silva,89,107.5,53.3,0.051,Blocked,0,Open Play,Left Foot
+3942349,Quarter-finals,France,Portugal,Kylian Mbappé Lottin,91,96.1,25.4,0.0195,Off T,0,Open Play,Right Foot
+3942349,Quarter-finals,France,Portugal,Kylian Mbappé Lottin,92,99.9,39.0,0.0481,Saved,0,Open Play,Right Foot
+3942349,Quarter-finals,Portugal,France,Cristiano Ronaldo dos Santos Aveiro,92,111.4,42.7,0.2695,Off T,0,Open Play,Right Foot
+3942349,Quarter-finals,France,Portugal,Kylian Mbappé Lottin,96,106.6,32.5,0.0661,Blocked,0,Open Play,Right Foot
+3942349,Quarter-finals,France,Portugal,Marcus Thuram,96,101.2,43.9,0.1856,Off T,0,Open Play,Left Foot
+3942349,Quarter-finals,Portugal,France,Rafael Alexandre Conceição Leão,101,109.9,35.7,0.1319,Blocked,0,Open Play,Right Foot
+3942349,Quarter-finals,Portugal,France,Francisco Fernandes Conceição,104,103.0,56.4,0.0216,Off T,0,Open Play,Left Foot
+3942349,Quarter-finals,Portugal,France,João Félix Sequeira,107,116.0,30.8,0.0833,Off T,0,Open Play,Head
+3942349,Quarter-finals,France,Portugal,Ousmane Dembélé,111,100.5,47.5,0.0539,Off T,0,Open Play,Left Foot
+3942349,Quarter-finals,France,Portugal,Bradley Barcola,113,114.4,28.4,0.0595,Off T,0,Open Play,Left Foot
+3942349,Quarter-finals,France,Portugal,Dayotchanculle Upamecano,117,109.6,37.4,0.039,Wayward,0,Open Play,Head
+3942349,Quarter-finals,Portugal,France,Nuno Mendes,119,103.1,38.3,0.1324,Saved,0,Open Play,Right Foot
+3942226,Quarter-finals,Spain,Germany,Pedro González López,0,101.5,39.7,0.1174,Saved,0,Open Play,Left Foot
+3942226,Quarter-finals,Spain,Germany,Nicholas Williams Arthuer,11,91.9,28.7,0.0219,Off T,0,Open Play,Right Foot
+3942226,Quarter-finals,Spain,Germany,Lamine Yamal Nasraoui Ebana,14,98.9,48.6,0.0845,Off T,0,Free Kick,Left Foot
+3942226,Quarter-finals,Spain,Germany,Álvaro Borja Morata Martín,15,100.2,21.9,0.0136,Blocked,0,Open Play,Right Foot
+3942226,Quarter-finals,Spain,Germany,Fabián Ruiz Peña,16,98.6,41.5,0.0686,Off T,0,Open Play,Left Foot
+3942226,Quarter-finals,Germany,Spain,Kai Havertz,20,110.4,40.0,0.0755,Saved,0,Open Play,Head
+3942226,Quarter-finals,Spain,Germany,Aymeric Laporte,22,95.6,23.8,0.0209,Saved,0,Open Play,Left Foot
+3942226,Quarter-finals,Germany,Spain,Jonathan Tah,24,109.2,32.9,0.0215,Blocked,0,Open Play,Head
+3942226,Quarter-finals,Germany,Spain,Kai Havertz,34,102.7,39.0,0.1543,Saved,0,Open Play,Right Foot
+3942226,Quarter-finals,Spain,Germany,Daniel Olmo Carvajal,38,92.1,45.5,0.029,Saved,0,Open Play,Right Foot
+3942226,Quarter-finals,Spain,Germany,Lamine Yamal Nasraoui Ebana,44,89.1,49.3,0.0271,Saved,0,Open Play,Left Foot
+3942226,Quarter-finals,Spain,Germany,Álvaro Borja Morata Martín,46,112.2,43.8,0.1577,Off T,0,Open Play,Right Foot
+3942226,Quarter-finals,Germany,Spain,Robert Andrich,47,96.7,56.2,0.0201,Off T,0,Open Play,Right Foot
+3942226,Quarter-finals,Spain,Germany,Daniel Olmo Carvajal,51,103.6,42.7,0.1632,Goal,1,Open Play,Right Foot
+3942226,Quarter-finals,Germany,Spain,Jamal Musiala,54,98.6,44.9,0.0407,Blocked,0,Open Play,Right Foot
+3942226,Quarter-finals,Spain,Germany,Nicholas Williams Arthuer,54,107.4,52.1,0.1247,Wayward,0,Open Play,Left Foot
+3942226,Quarter-finals,Germany,Spain,Florian Wirtz,59,93.1,39.8,0.0281,Blocked,0,Open Play,Right Foot
+3942226,Quarter-finals,Germany,Spain,Niclas Füllkrug,63,111.8,47.0,0.0466,Off T,0,Open Play,Head
+3942226,Quarter-finals,Germany,Spain,Robert Andrich,69,99.8,43.6,0.069,Saved,0,Open Play,Right Foot
+3942226,Quarter-finals,Germany,Spain,Kai Havertz,71,108.8,33.1,0.0856,Blocked,0,Open Play,Left Foot
+3942226,Quarter-finals,Germany,Spain,Niclas Füllkrug,71,110.7,39.3,0.0784,Off T,0,Open Play,Head
+3942226,Quarter-finals,Germany,Spain,Niclas Füllkrug,76,109.2,42.6,0.1009,Post,0,Open Play,Right Foot
+3942226,Quarter-finals,Germany,Spain,Jamal Musiala,80,111.0,25.7,0.0606,Off T,0,Open Play,Left Foot
+3942226,Quarter-finals,Germany,Spain,Kai Havertz,81,93.1,21.7,0.0379,Off T,0,Open Play,Left Foot
+3942226,Quarter-finals,Spain,Germany,Fabián Ruiz Peña,83,96.6,34.4,0.0498,Off T,0,Open Play,Left Foot
+3942226,Quarter-finals,Germany,Spain,Maximilian Mittelstädt,87,97.2,39.1,0.0403,Blocked,0,Open Play,Left Foot
+3942226,Quarter-finals,Germany,Spain,Florian Wirtz,88,111.8,45.5,0.1196,Goal,1,Open Play,Right Foot
+3942226,Quarter-finals,Germany,Spain,Thomas Müller,93,113.2,43.6,0.2374,Off T,0,Open Play,Right Foot
+3942226,Quarter-finals,Spain,Germany,Ferrán Torres García,90,106.6,43.2,0.0519,Wayward,0,Open Play,Head
+3942226,Quarter-finals,Spain,Germany,Mikel Oyarzabal Ugarte,94,98.2,43.0,0.0267,Blocked,0,Open Play,Left Foot
+3942226,Quarter-finals,Spain,Germany,Daniel Olmo Carvajal,96,103.5,24.3,0.0189,Blocked,0,Open Play,Right Foot
+3942226,Quarter-finals,Germany,Spain,Robert Andrich,100,100.7,50.7,0.0269,Off T,0,Open Play,Right Foot
+3942226,Quarter-finals,Spain,Germany,Mikel Oyarzabal Ugarte,103,96.8,54.8,0.0221,Off T,0,Open Play,Left Foot
+3942226,Quarter-finals,Germany,Spain,Florian Wirtz,105,102.4,36.0,0.1075,Off T,0,Open Play,Left Foot
+3942226,Quarter-finals,Germany,Spain,Jamal Musiala,105,100.3,44.6,0.0491,Blocked,0,Open Play,Right Foot
+3942226,Quarter-finals,Germany,Spain,Niclas Füllkrug,108,104.6,29.1,0.0458,Off T,0,Open Play,Left Foot
+3942226,Quarter-finals,Spain,Germany,Mikel Oyarzabal Ugarte,111,97.5,44.3,0.0423,Off T,0,Open Play,Left Foot
+3942226,Quarter-finals,Germany,Spain,Niclas Füllkrug,116,108.4,43.4,0.0523,Saved,0,Open Play,Head
+3942226,Quarter-finals,Spain,Germany,Mikel Merino Zazón,118,112.6,39.2,0.2007,Goal,1,Open Play,Head
+3942226,Quarter-finals,Germany,Spain,Joshua Kimmich,121,98.8,45.3,0.045,Blocked,0,Open Play,Right Foot
+3942226,Quarter-finals,Spain,Germany,Ferrán Torres García,121,111.5,50.9,0.2932,Wayward,0,Open Play,Right Foot
+3942226,Quarter-finals,Germany,Spain,Niclas Füllkrug,122,110.1,42.4,0.0859,Off T,0,Open Play,Head
+3942227,Quarter-finals,Switzerland,England,Breel-Donald Embolo,9,115.2,59.1,0.0089,Off T,0,Open Play,Right Foot
+3942227,Quarter-finals,England,Switzerland,Declan Rice,13,97.1,38.6,0.0398,Blocked,0,Open Play,Right Foot
+3942227,Quarter-finals,England,Switzerland,Kobbie Mainoo,15,97.0,40.0,0.0412,Blocked,0,Open Play,Right Foot
+3942227,Quarter-finals,England,Switzerland,Harry Kane,21,107.6,34.7,0.0248,Wayward,0,Open Play,Head
+3942227,Quarter-finals,Switzerland,England,Breel-Donald Embolo,24,103.5,35.4,0.0506,Blocked,0,Open Play,Left Foot
+3942227,Quarter-finals,England,Switzerland,Bukayo Saka,42,94.4,53.3,0.0227,Blocked,0,Open Play,Left Foot
+3942227,Quarter-finals,England,Switzerland,Kobbie Mainoo,44,113.2,49.6,0.1055,Blocked,0,Open Play,Right Foot
+3942227,Quarter-finals,England,Switzerland,Bukayo Saka,46,111.9,52.7,0.0437,Blocked,0,Open Play,Left Foot
+3942227,Quarter-finals,Switzerland,England,Breel-Donald Embolo,50,112.9,30.4,0.0524,Saved,0,Open Play,Right Foot
+3942227,Quarter-finals,Switzerland,England,Breel-Donald Embolo,56,113.4,43.5,0.1137,Blocked,0,Open Play,Head
+3942227,Quarter-finals,Switzerland,England,Michel Aebischer,65,103.5,36.6,0.0549,Off T,0,Open Play,Right Foot
+3942227,Quarter-finals,Switzerland,England,Breel-Donald Embolo,74,116.9,38.5,0.6736,Goal,1,Open Play,Right Foot
+3942227,Quarter-finals,England,Switzerland,Bukayo Saka,79,100.3,56.6,0.0271,Goal,1,Open Play,Left Foot
+3942227,Quarter-finals,England,Switzerland,Harry Kane,82,107.6,40.4,0.0437,Blocked,0,Open Play,Right Foot
+3942227,Quarter-finals,England,Switzerland,Eberechi Eze,87,107.6,21.5,0.0123,Off T,0,Open Play,Right Foot
+3942227,Quarter-finals,Switzerland,England,Dan Ndoye,89,102.2,22.4,0.0284,Off T,0,Open Play,Right Foot
+3942227,Quarter-finals,Switzerland,England,Steven Zuber,92,110.9,28.0,0.0491,Off T,0,Open Play,Right Foot
+3942227,Quarter-finals,England,Switzerland,Declan Rice,94,89.6,32.5,0.0175,Saved,0,Open Play,Right Foot
+3942227,Quarter-finals,England,Switzerland,Phil Foden,100,90.5,44.9,0.0245,Blocked,0,Open Play,Left Foot
+3942227,Quarter-finals,England,Switzerland,Jude Bellingham,101,103.5,46.6,0.0652,Blocked,0,Open Play,Right Foot
+3942227,Quarter-finals,England,Switzerland,Jude Bellingham,101,103.8,44.8,0.069,Saved,0,Open Play,Left Foot
+3942227,Quarter-finals,Switzerland,England,Fabian Lukas Schär,112,106.2,58.7,0.0123,Off T,0,Open Play,Right Foot
+3942227,Quarter-finals,Switzerland,England,Xherdan Shaqiri,116,119.3,79.1,0.0002,Post,0,Corner,Left Foot
+3942227,Quarter-finals,Switzerland,England,Mohamed Zeki Amdouni,118,101.7,23.7,0.0397,Saved,0,Open Play,Left Foot
+3942227,Quarter-finals,Switzerland,England,Silvan Widmer,118,111.7,46.0,0.1177,Off T,0,Open Play,Right Foot
+3942382,Quarter-finals,Netherlands,Turkey,Memphis Depay,0,103.7,33.2,0.1305,Off T,0,Open Play,Right Foot
+3942382,Quarter-finals,Netherlands,Turkey,Memphis Depay,6,108.3,42.5,0.064,Blocked,0,Open Play,Left Foot
+3942382,Quarter-finals,Turkey,Netherlands,Salih Özcan,10,94.1,49.4,0.0259,Off T,0,Open Play,Right Foot
+3942382,Quarter-finals,Netherlands,Turkey,Xavi Simons,11,95.1,32.8,0.0392,Off T,0,Open Play,Right Foot
+3942382,Quarter-finals,Turkey,Netherlands,Hakan Çalhanoğlu,20,98.9,57.7,0.0188,Blocked,0,Open Play,Right Foot
+3942382,Quarter-finals,Turkey,Netherlands,Abdülkerim Bardakcı,28,110.5,34.8,0.1033,Off T,0,Open Play,Right Foot
+3942382,Quarter-finals,Turkey,Netherlands,Arda Güler,31,99.3,66.6,0.0063,Off T,0,Open Play,Left Foot
+3942382,Quarter-finals,Turkey,Netherlands,Kenan Yildiz,33,105.0,22.8,0.0199,Off T,0,Open Play,Right Foot
+3942382,Quarter-finals,Turkey,Netherlands,Samet Akaydin,34,117.9,35.1,0.2457,Goal,1,Open Play,Head
+3942382,Quarter-finals,Netherlands,Turkey,Steven Bergwijn,41,93.2,50.5,0.0255,Off T,0,Open Play,Right Foot
+3942382,Quarter-finals,Turkey,Netherlands,Arda Güler,55,90.2,45.9,0.0424,Saved to Post,0,Free Kick,Left Foot
+3942382,Quarter-finals,Netherlands,Turkey,Memphis Depay,56,95.0,31.7,0.0291,Saved,0,Open Play,Right Foot
+3942382,Quarter-finals,Netherlands,Turkey,Memphis Depay,62,102.6,24.6,0.0387,Blocked,0,Open Play,Right Foot
+3942382,Quarter-finals,Turkey,Netherlands,Kenan Yildiz,64,97.4,42.2,0.0384,Saved,0,Open Play,Right Foot
+3942382,Quarter-finals,Netherlands,Turkey,Cody Mathès Gakpo,69,110.5,37.0,0.0789,Blocked,0,Open Play,Right Foot
+3942382,Quarter-finals,Netherlands,Turkey,Wout Weghorst,69,114.1,47.8,0.1556,Saved,0,Open Play,Right Foot
+3942382,Quarter-finals,Netherlands,Turkey,Stefan de Vrij,69,110.1,39.1,0.0613,Goal,1,Open Play,Head
+3942382,Quarter-finals,Netherlands,Turkey,Joey Veerman,74,95.1,28.0,0.0242,Blocked,0,Open Play,Right Foot
+3942382,Quarter-finals,Turkey,Netherlands,Cenk Tosun,83,108.2,46.5,0.0419,Off T,0,Open Play,Head
+3942382,Quarter-finals,Turkey,Netherlands,Mehmet Zeki Çelik,84,110.5,50.7,0.2424,Blocked,0,Open Play,Right Foot
+3942382,Quarter-finals,Turkey,Netherlands,Muhammed Kerem Aktürkoğlu,84,110.2,29.0,0.0801,Blocked,0,Open Play,Right Foot
+3942382,Quarter-finals,Turkey,Netherlands,Cenk Tosun,87,111.3,34.1,0.078,Off T,0,Open Play,Head
+3942382,Quarter-finals,Netherlands,Turkey,Cody Mathès Gakpo,88,106.9,25.8,0.0719,Saved,0,Open Play,Left Foot
+3942382,Quarter-finals,Turkey,Netherlands,Muhammed Kerem Aktürkoğlu,89,115.1,30.4,0.0954,Off T,0,Open Play,Head
+3942382,Quarter-finals,Turkey,Netherlands,Semih Kılıçsoy,91,111.3,41.6,0.114,Saved,0,Open Play,Other
+3942382,Quarter-finals,Turkey,Netherlands,Hakan Çalhanoğlu,92,101.2,29.4,0.0301,Blocked,0,Open Play,Left Foot
+3942752,Semi-finals,Spain,France,Fabián Ruiz Peña,4,115.4,35.9,0.1933,Off T,0,Open Play,Head
+3942752,Semi-finals,France,Spain,Randal Kolo Muani,8,114.9,43.7,0.2713,Goal,1,Open Play,Head
+3942752,Semi-finals,France,Spain,Kylian Mbappé Lottin,15,88.6,45.1,0.0303,Blocked,0,Free Kick,Right Foot
+3942752,Semi-finals,France,Spain,Kylian Mbappé Lottin,18,102.9,30.2,0.0812,Blocked,0,Open Play,Right Foot
+3942752,Semi-finals,Spain,France,Lamine Yamal Nasraoui Ebana,20,93.2,47.1,0.0268,Goal,1,Open Play,Left Foot
+3942752,Semi-finals,Spain,France,Daniel Olmo Carvajal,24,111.6,50.8,0.0739,Goal,1,Open Play,Right Foot
+3942752,Semi-finals,Spain,France,Fabián Ruiz Peña,35,99.7,39.5,0.0489,Blocked,0,Open Play,Left Foot
+3942752,Semi-finals,Spain,France,Lamine Yamal Nasraoui Ebana,39,97.7,49.9,0.0243,Blocked,0,Open Play,Left Foot
+3942752,Semi-finals,France,Spain,Aurélien Djani Tchouaméni,52,111.9,37.4,0.0811,Saved,0,Open Play,Head
+3942752,Semi-finals,France,Spain,Kylian Mbappé Lottin,55,111.3,24.4,0.0371,Saved,0,Open Play,Right Foot
+3942752,Semi-finals,France,Spain,Dayotchanculle Upamecano,62,115.4,46.4,0.0965,Off T,0,Open Play,Head
+3942752,Semi-finals,France,Spain,Theo Bernard François Hernández,75,103.1,34.5,0.1217,Off T,0,Open Play,Right Foot
+3942752,Semi-finals,Spain,France,Lamine Yamal Nasraoui Ebana,80,100.4,51.7,0.0544,Off T,0,Open Play,Left Foot
+3942752,Semi-finals,France,Spain,Kylian Mbappé Lottin,85,104.1,29.6,0.0996,Off T,0,Open Play,Right Foot
+3942752,Semi-finals,France,Spain,Antoine Griezmann,94,109.8,46.9,0.0318,Blocked,0,Open Play,Head
+3942819,Semi-finals,Netherlands,England,Xavi Simons,6,99.6,51.2,0.0489,Goal,1,Open Play,Right Foot
+3942819,Semi-finals,England,Netherlands,Harry Kane,12,88.2,36.6,0.0289,Saved,0,Open Play,Right Foot
+3942819,Semi-finals,England,Netherlands,Bukayo Saka,13,104.5,41.6,0.0717,Blocked,0,Open Play,Left Foot
+3942819,Semi-finals,England,Netherlands,Harry Kane,17,108.1,40.0,0.7835,Goal,1,Penalty,Right Foot
+3942819,Semi-finals,England,Netherlands,Phil Foden,22,117.0,47.6,0.1723,Saved,0,Open Play,Right Foot
+3942819,Semi-finals,Netherlands,England,Donyell Malen,28,102.9,45.1,0.0398,Blocked,0,Open Play,Left Foot
+3942819,Semi-finals,Netherlands,England,Denzel Dumfries,29,111.3,43.4,0.0632,Post,0,Open Play,Head
+3942819,Semi-finals,England,Netherlands,Phil Foden,31,95.8,51.6,0.0287,Post,0,Open Play,Left Foot
+3942819,Semi-finals,England,Netherlands,Phil Foden,38,98.4,50.6,0.0346,Saved,0,Open Play,Left Foot
+3942819,Semi-finals,England,Netherlands,Kobbie Mainoo,40,98.8,52.9,0.0298,Blocked,0,Open Play,Right Foot
+3942819,Semi-finals,Netherlands,England,Virgil van Dijk,64,109.5,33.3,0.0816,Saved,0,Open Play,Left Foot
+3942819,Semi-finals,Netherlands,England,Denzel Dumfries,64,111.1,44.6,0.0585,Off T,0,Open Play,Head
+3942819,Semi-finals,Netherlands,England,Wout Weghorst,76,110.4,38.9,0.0578,Blocked,0,Open Play,Head
+3942819,Semi-finals,Netherlands,England,Xavi Simons,76,103.5,45.0,0.0623,Saved,0,Open Play,Right Foot
+3942819,Semi-finals,England,Netherlands,Cole Palmer,87,104.8,50.4,0.0514,Off T,0,Open Play,Left Foot
+3942819,Semi-finals,England,Netherlands,Ollie Watkins,90,110.4,53.5,0.0355,Goal,1,Open Play,Right Foot
+3943043,Final,Spain,England,Nicholas Williams Arthuer,11,115.6,28.4,0.068,Blocked,0,Open Play,Left Foot
+3943043,Final,Spain,England,Robin Aime Robert Le Normand,12,112.9,36.2,0.1175,Off T,0,Open Play,Right Foot
+3943043,Final,England,Spain,Declan Rice,16,96.2,40.8,0.049,Blocked,0,Open Play,Right Foot
+3943043,Final,Spain,England,Fabián Ruiz Peña,27,101.2,49.8,0.0481,Saved,0,Open Play,Right Foot
+3943043,Final,Spain,England,Daniel Olmo Carvajal,34,95.0,31.2,0.0265,Blocked,0,Open Play,Right Foot
+3943043,Final,Spain,England,Álvaro Borja Morata Martín,42,113.9,30.2,0.0784,Blocked,0,Open Play,Right Foot
+3943043,Final,England,Spain,Harry Kane,44,102.6,36.7,0.0484,Blocked,0,Open Play,Right Foot
+3943043,Final,England,Spain,Phil Foden,45,114.4,29.9,0.1797,Saved,0,Open Play,Left Foot
+3943043,Final,Spain,England,Nicholas Williams Arthuer,46,109.9,28.0,0.1125,Goal,1,Open Play,Left Foot
+3943043,Final,Spain,England,Daniel Olmo Carvajal,48,108.8,32.1,0.2456,Off T,0,Open Play,Left Foot
+3943043,Final,Spain,England,Álvaro Borja Morata Martín,54,95.8,46.1,0.0253,Blocked,0,Open Play,Left Foot
+3943043,Final,Spain,England,Álvaro Borja Morata Martín,54,110.9,51.0,0.2431,Wayward,0,Open Play,Right Foot
+3943043,Final,Spain,England,Nicholas Williams Arthuer,55,97.2,43.4,0.0491,Off T,0,Open Play,Right Foot
+3943043,Final,England,Spain,Jude Bellingham,63,99.0,37.2,0.0563,Off T,0,Open Play,Left Foot
+3943043,Final,Spain,England,Lamine Yamal Nasraoui Ebana,65,103.5,49.7,0.1621,Saved,0,Open Play,Left Foot
+3943043,Final,Spain,England,Aymeric Laporte,66,111.9,43.8,0.0979,Blocked,0,Open Play,Head
+3943043,Final,Spain,England,Fabián Ruiz Peña,69,93.3,35.9,0.0326,Off T,0,Open Play,Left Foot
+3943043,Final,England,Spain,Ollie Watkins,69,91.0,40.1,0.0747,Blocked,0,Open Play,Right Foot
+3943043,Final,Spain,England,Mikel Oyarzabal Ugarte,71,112.0,24.9,0.0377,Saved,0,Open Play,Left Foot
+3943043,Final,England,Spain,Cole Palmer,72,98.4,49.0,0.0379,Goal,1,Open Play,Left Foot
+3943043,Final,Spain,England,Lamine Yamal Nasraoui Ebana,81,107.2,50.2,0.1639,Saved,0,Open Play,Left Foot
+3943043,Final,Spain,England,Mikel Oyarzabal Ugarte,85,111.2,36.3,0.2833,Goal,1,Open Play,Right Foot
+3943043,Final,England,Spain,Declan Rice,89,109.5,44.1,0.0574,Saved,0,Open Play,Head
+3943043,Final,England,Spain,Marc Guehi,89,114.8,35.5,0.1172,Blocked,0,Open Play,Head
+3943043,Final,England,Spain,Declan Rice,89,113.1,41.4,0.1058,Off T,0,Open Play,Head
